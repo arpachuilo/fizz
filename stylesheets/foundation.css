@@ -653,7 +653,7 @@ ul.tabs-content.contained.vertical > li { border-width: 1px 1px 1px 1px; }
 .nav-bar > li.active { background: #DAA520; border-color: #2284a1; }
 .nav-bar > li.active > a { color: white; cursor: default; }
 .nav-bar > li.active:hover { background: #2ba6cb; cursor: default; }
-.nav-bar > li:hover { background: #f9e3cc; }
+.nav-bar > li:hover { background: #bc6203; }
 .nav-bar > li a { color: #e6e6e6; }
 .nav-bar > li ul { margin-bottom: 0; }
 .nav-bar > li .flyout { display: none; }
