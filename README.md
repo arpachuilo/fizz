@@ -1,3 +1,4 @@
+<<<<<<< HEAD
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
@@ -24,3 +25,7 @@ The Cloud9 IDE team
 
 Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
 To watch some training videos, visit http://www.youtube.com/user/c9ide
+=======
+# fizz
+Cocktail making and browsing web application. Started as class project.
+>>>>>>> c160fef2b92da30208cffc5a5e97c025997732b4
