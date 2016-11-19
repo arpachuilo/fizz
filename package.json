@@ -2,6 +2,20 @@
   "name": "fizz",
   "version": "0.0.1",
   "author": "Andrew Pachuilo <arpachuilo@tamu.edu>",
+  "contributors" [
+    {
+      "name": "Bing Jiang",
+      "email": "jiangbing@tamu.edu"
+    },
+    {
+      "name": "Jia Dong",
+      "email": "barbaradong@tamu.edu"
+    },
+    {
+      "name": "Jiangtian Qian",
+      "email": "jiangtianqian@tamu.edu"
+    }
+  ],
   "dependencies": {
     "compression": "^1.6.1",
     "d3": "^4.2.4",
