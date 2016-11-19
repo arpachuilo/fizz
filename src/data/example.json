@@ -1,0 +1,36 @@
+[
+  {
+    "title": "example",
+    "directions": "blah blah shake",
+    "picture": "/path",
+    "drinkware": "cocktail glass",
+    "served": "on the rocks",
+    "ingredients": {
+      "alcohol": [
+        {
+          "ingredient": "whiskey[rye]",
+          "quantity": {
+            "unit": "ml",
+            "amt": "5"
+          }
+        },
+        {
+          "ingredient": "whiskey[bourbon]",
+          "quantity": {
+            "unit": "ml",
+            "amt": "5"
+          }
+        }
+      ],
+      "non-alcohol": [
+
+      ],
+      "garnish": [
+
+      ],
+      "misc": [
+
+      ]
+    }
+  }
+]
