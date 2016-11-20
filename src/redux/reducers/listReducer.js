@@ -1,43 +1,10 @@
 import { addItem, removeItem, clearItems } from './list'
 import { ADD_ITEM, REMOVE_ITEM, CLEAR_ITEMS } from '../actions'
 
+import example from '../../data/example.json'
+
 const initialState = {
-  items: [
-    {
-      'title': 'example',
-      'directions': 'blah blah shake',
-      'picture': '/path',
-      'drinkware': 'cocktail glass',
-      'served': 'on the rocks',
-      'ingredients': {
-        'alcohol': [
-          {
-            'ingredient': 'whiskey[rye]',
-            'quantity': {
-              'unit': 'ml',
-              'amt': '5'
-            }
-          },
-          {
-            'ingredient': 'whiskey[bourbon]',
-            'quantity': {
-              'unit': 'ml',
-              'amt': '5'
-            }
-          }
-        ],
-        'non-alcohol': [
-
-        ],
-        'garnish': [
-
-        ],
-        'misc': [
-
-        ]
-      }
-    }
-  ]
+  items: example
 }
 
 export default (state = initialState, action) => {

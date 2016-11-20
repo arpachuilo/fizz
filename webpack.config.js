@@ -65,6 +65,9 @@ const common = {
       {
         test: /\.(png|gif|jpe?g|svg)$/i, loader: 'url?limit=10000'
       },
+      {
+        test: /\.json$/, loaders: ["json"]
+      },
     ]
   },
   postcss: [ autoprefixer({ browsers: ['last 2 versions'] }) ]
