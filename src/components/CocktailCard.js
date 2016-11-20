@@ -1,6 +1,5 @@
 import React, { PropTypes } from 'react'
 
-// TODO: Add buttons
 export class CocktailGrid extends React.Component {
   render () {
     if (Object.keys(this.props.data).length === 0) {
@@ -28,9 +27,9 @@ export class CocktailGrid extends React.Component {
           {cleanedIngredients.map((d, i) => {
             return (
               <li>
-                <span className='ingredient'>{d.ingredient}</span>
                 <span className='amount'>{d.quantity.amt}</span>
                 <span className='unit'>{d.quantity.unit}</span>
+                <span className='ingredient'>{d.ingredient}</span>
               </li>
             )
           })}
