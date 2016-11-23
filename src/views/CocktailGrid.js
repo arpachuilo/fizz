@@ -5,7 +5,7 @@ import CocktailCard from '../components/CocktailCard'
 export class CocktailGrid extends React.Component {
   render () {
     return (
-      <div id='columns'>
+      <div id='columnLayout'>
         {this.props.items.map((d, i) => {
           return (
             <CocktailCard key={i} data={d} />

@@ -1,10 +1,10 @@
 import { addItem, removeItem, clearItems } from './list'
 import { ADD_ITEM, REMOVE_ITEM, CLEAR_ITEMS } from '../actions'
 
-import example from '../../data/example.json'
+import cocktails from '../../data/cocktails.json'
 
 const initialState = {
-  items: example
+  items: cocktails
 }
 
 export default (state = initialState, action) => {

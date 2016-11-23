@@ -18,6 +18,10 @@ export class ClusterBrowser extends React.Component {
     this.handleResize()
   }
 
+  componentWillUnmount () {
+    window.removeEventListener('resize', this.handleResize)
+  }
+
   handleResize () {
     let rootBBOX = this.refs.root.getBoundingClientRect()
     this.setState({
@@ -39,7 +43,7 @@ export class ClusterBrowser extends React.Component {
             let x = Math.floor(Math.random() * this.state.width) + 1
             let y = Math.floor(Math.random() * this.props.height) + 1
             let position = 'translate(' + x + ',' + y + ')'
-            let clusterClass = 'cluster-' + 1
+            let clusterClass = 'cluster-' + d.cluster
             if (this.props.suggestedCocktails.includes(d)) {
               clusterClass += ' highlighted'
             }

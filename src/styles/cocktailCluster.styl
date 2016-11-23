@@ -1,14 +1,51 @@
 .clusterPoint text
   text-anchor middle
+  font-size 0.95em
 
 .clusterPoint circle
-  stroke blue
+  cursor pointer
+  animation-name shrink
+  animation-duration 1s
+  animation-timing-function linear
+  animation-fill-mode forwards
+
+.clusterPoint .highlighted
+  opacity 1
+
+.clusterPoint circle:not(.highlighted)
+  opacity 0.25
+
+@keyframes shrink {
+  from {
+    r: 15;
+  }
+  to {
+    r: 10;
+  }
+}
 
 .clusterPoint circle:hover
-  stroke yellow
+  animation-name expand
+  animation-duration 1s
+  animation-timing-function linear
+  animation-fill-mode forwards
 
+@keyframes expand {
+  from {
+    r: 10;
+  }
+  to {
+    r: 15;
+  }
+}
+
+.cluster-0
+  fill rgb(79,140,157)
 .cluster-1
-  fill red
-
-.highlighted
-  fill blue
+  fill rgb(228,26,114)
+.cluster-2
+  fill rgb(22,208,174)
+.cluster-3
+  fill rgb(132,36,17)
+.cluster-4
+  fill rgb(167,232,49)

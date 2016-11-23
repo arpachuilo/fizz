@@ -18,10 +18,8 @@ class Home extends React.Component {
 
   render () {
     return (
-      <div className='container'>
-        <div className='row'>
-          <CocktailGrid items={this.props.cocktails} />
-        </div>
+      <div className='row'>
+        <CocktailGrid items={this.props.cocktails} />
       </div>
     )
   }

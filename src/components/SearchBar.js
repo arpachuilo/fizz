@@ -132,7 +132,7 @@ class TypeAhead extends React.Component {
   // Render TypeAhead
   render () {
     return (
-      <div className='typeahead'>
+      <div className='searchbar'>
         {/* TypeAhead input box */}
         <input type='text' ref='input'
           value={this.state.input}
