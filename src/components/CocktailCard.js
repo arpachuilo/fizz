@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react'
 
-export class CocktailGrid extends React.Component {
+export class CocktailCard extends React.Component {
   render () {
     if (Object.keys(this.props.data).length === 0) {
       return <div />
@@ -26,7 +26,7 @@ export class CocktailGrid extends React.Component {
         <ul className='ingredients'>
           {cleanedIngredients.map((d, i) => {
             return (
-              <li>
+              <li key={i}>
                 <span className='amount'>{d.quantity.amt}</span>
                 <span className='unit'>{d.quantity.unit}</span>
                 <span className='ingredient'>{d.ingredient}</span>
@@ -39,12 +39,12 @@ export class CocktailGrid extends React.Component {
   }
 }
 
-CocktailGrid.defaultProps = {
+CocktailCard.defaultProps = {
   data: {}
 }
 
-CocktailGrid.propTypes = {
+CocktailCard.propTypes = {
   data: PropTypes.any
 }
 
-export default CocktailGrid
+export default CocktailCard

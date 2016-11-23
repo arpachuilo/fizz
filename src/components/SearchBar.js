@@ -61,7 +61,6 @@ class TypeAhead extends React.Component {
     this.handleClick = this.handleClick.bind(this)
     this.handleKey = this.handleKey.bind(this)
     this.handleChange = this.handleChange.bind(this)
-    this.validate = this.validate.bind(this)
     this.search = this.search.bind(this)
   }
 
@@ -99,8 +98,8 @@ class TypeAhead extends React.Component {
   }
 
   // Update suggestion listing based on user input
-  handleChange () {
-    var input = this.refs.input.getValue()
+  handleChange (e) {
+    var input = e.target.value
     this.setState({
       input: input
     })
@@ -113,23 +112,16 @@ class TypeAhead extends React.Component {
     })
   }
 
-  // Check if input is valid for question creator
-  validate () {
-    var token = this.props.engine.get(this.state.input)
-    if (token[0] !== undefined) {
-      return 'success'
-    } else if (this.state.input.length > 0) {
-      return 'error'
-    }
-  }
-
   // Search for possible suggestions given input
   search (input) {
     this.props.engine.search(input, (suggestions) => {
       this.setState({
-        suggestions: suggestions.slice(0, this.props.limit),
+        suggestions: this.props.limit
+          ? suggestions
+          : suggestions.slice(0, this.props.limit),
         hidden: (suggestions.length === 0)
       })
+      this.props.handleSuggestions(suggestions)
       var token = this.props.engine.get(input)[0]
       token !== undefined
         ? this.handleToken(token)
@@ -139,34 +131,39 @@ class TypeAhead extends React.Component {
 
   // Render TypeAhead
   render () {
-    // bsStyle={this.validate()}
-    // hasFeedback
     return (
       <div className='typeahead'>
         {/* TypeAhead input box */}
         <input type='text' ref='input'
           value={this.state.input}
           onChange={this.handleChange}
-          onKeyPress={this.handleKey}
-        />
+          onKeyPress={this.handleKey} />
         {/* Suggestion listing */}
         <Suggestions
           suggestions={Array.from(this.state.suggestions, this.props.displayValue)}
           handleClick={this.handleClick}
-          hidden={this.state.hidden}
-        />
+          hidden={this.state.hidden} />
       </div>
     )
   }
 }
 
+TypeAhead.defaultProps = {
+  suggestions: [],
+  value: 'id',
+  displayValue: (d) => d.id,
+  limit: false,
+  handleSuggestions: () => {},
+  handleToken: () => {}
+}
+
 TypeAhead.propTypes = {
   suggestions: PropTypes.array,
-  engine: PropTypes.any,
-  key: PropTypes.string,
-  value: PropTypes.string,
+  engine: PropTypes.any.isRequired,
+  value: PropTypes.string.isRequired,
   displayValue: PropTypes.func,
   limit: PropTypes.number,
+  handleSuggestions: PropTypes.func,
   handleToken: PropTypes.func
 }
 

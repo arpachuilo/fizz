@@ -8,7 +8,7 @@ export class CocktailGrid extends React.Component {
       <div id='columns'>
         {this.props.items.map((d, i) => {
           return (
-            <CocktailCard data={d} />
+            <CocktailCard key={i} data={d} />
           )
         })}
       </div>
