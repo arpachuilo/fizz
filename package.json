@@ -20,6 +20,7 @@
     "bloodhound-js": "^1.2.1",
     "compression": "^1.6.1",
     "d3": "^4.2.4",
+    "json-loader": "^0.5.4",
     "lodash.debounce": "^4.0.8",
     "react": "^15.3.2",
     "react-addons-perf": "^15.3.2",

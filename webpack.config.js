@@ -14,7 +14,7 @@ const PATHS = {
 const TARGET = process.env.npm_lifecycle_event
 
 var env = process.env.NODE_ENV || 'development'
-var isDev = env === 'development' ? true : false
+var isDev = env === 'development'
 
 // Common to both starting dev server and building for production.
 const common = {
@@ -25,7 +25,7 @@ const common = {
     path: PATHS.build,
     filename: 'bundle.js',
     // chunkFilename: 'common.js',
-    publicPath: '/',
+    publicPath: '/'
   },
   debug: isDev,
   devtool: isDev ? 'eval' : false,
@@ -36,7 +36,7 @@ const common = {
       __DEVTOOLS__: isDev,
       'process.env': {
         NODE_ENV: JSON.stringify(env),
-        BABEL_ENV: JSON.stringify(env),
+        BABEL_ENV: JSON.stringify(env)
       }
     }),
     new HtmlPlugin({
@@ -47,7 +47,7 @@ const common = {
     new webpack.ProvidePlugin({
       'fetch': 'imports?this=>global!exports?global.fetch!whatwg-fetch'
     }),
-    new webpack.NoErrorsPlugin(),
+    new webpack.NoErrorsPlugin()
   ],
   module: {
     preLoaders: [
@@ -66,8 +66,8 @@ const common = {
         test: /\.(png|gif|jpe?g|svg)$/i, loader: 'url?limit=10000'
       },
       {
-        test: /\.json$/, loaders: ["json"]
-      },
+        test: /\.json$/, loaders: ['json']
+      }
     ]
   },
   postcss: [ autoprefixer({ browsers: ['last 2 versions'] }) ]
@@ -86,10 +86,10 @@ if (TARGET === 'start' || !TARGET) {
       progress: true,
       stats: 'errors-only',
       host: process.env.HOST || '0.0.0.0',
-      port: process.env.PORT || 3030,
+      port: process.env.PORT || 3030
     },
     plugins: [
-      new webpack.HotModuleReplacementPlugin(),
+      new webpack.HotModuleReplacementPlugin()
     ]
   })
 } else if (TARGET === 'build' || TARGET === 'stats') {
@@ -99,14 +99,14 @@ if (TARGET === 'start' || !TARGET) {
       new webpack.optimize.DedupePlugin(),
       new webpack.optimize.OccurenceOrderPlugin(),
       new webpack.optimize.MinChunkSizePlugin({
-        minChunkSize: 51200, // ~50kb
+        minChunkSize: 51200 // ~50kb
       }),
       new webpack.optimize.UglifyJsPlugin({
         mangle: true,
         compress: {
-          warnings: false,
-        },
-      }),
+          warnings: false
+        }
+      })
     ]
   })
 }
