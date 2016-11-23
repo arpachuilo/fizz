@@ -6,4 +6,5 @@ These scripts carry out the clustering for our cocktails
 2. Install (kmodes)[https://github.com/nicodv/kmodes]
   * `pip install kmodes`
 3. Run `py recipesJSONtoCSV.py cocktails.json`
-3. Run `py cluster.py cocktails.csv`
+4. Delete headers in `cocktails.csv` NOTE: Needs fix
+5. Run `py cluster.py cocktails.csv`
