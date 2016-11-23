@@ -136,6 +136,7 @@ class TypeAhead extends React.Component {
         {/* TypeAhead input box */}
         <input type='text' ref='input'
           value={this.state.input}
+          placeholder='Search for cocktails by name or ingredients!'
           onChange={this.handleChange}
           onKeyPress={this.handleKey} />
         {/* Suggestion listing */}
