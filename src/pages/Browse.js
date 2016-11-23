@@ -41,6 +41,17 @@ const searchEngine = new Bloodhound({
 
 searchEngine.add(cocktails)
 
+const checkForCocktail = (cocktailArr, cocktail) => {
+  let value = false
+  for (let i = 0; i < cocktailArr.length; i++) {
+    if (cocktailArr[i].title === cocktail.title) {
+      value = true
+      break
+    }
+  }
+  return value
+}
+
 class Browse extends React.Component {
   constructor (props) {
     super(props)
@@ -52,6 +63,13 @@ class Browse extends React.Component {
 
     this.setSelectedCocktail = this.setSelectedCocktail.bind(this)
     this.updateSuggestedCocktails = this.updateSuggestedCocktails.bind(this)
+    this.onButtonClick = this.onButtonClick.bind(this)
+  }
+
+  onButtonClick (d) {
+    checkForCocktail(this.props.cocktails, this.state.selectedCocktail)
+      ? this.props.removeCocktail(d)
+      : this.props.addCocktail(d)
   }
 
   setSelectedCocktail (d) {
@@ -69,7 +87,9 @@ class Browse extends React.Component {
   }
 
   render () {
-    // When rendering cocktail card check if it is added to library or not
+    let button = checkForCocktail(this.props.cocktails, this.state.selectedCocktail)
+      ? 'Remove'
+      : 'Pin'
     return (
       <div className='container'>
         <div className='row'>
@@ -84,12 +104,14 @@ class Browse extends React.Component {
               displayValue={(d) => {
                 return d['title']
               }} />
-            <ClusterBrowser cocktails={this.props.cocktails}
+            <ClusterBrowser cocktails={cocktails}
               suggestedCocktails={this.state.suggestedCocktails}
               onClick={this.setSelectedCocktail} />
           </div>
           <div className='four columns'>
-            <CocktailCard data={this.state.selectedCocktail} />
+            <CocktailCard data={this.state.selectedCocktail}
+              onButtonClick={this.onButtonClick}
+              button={button} />
           </div>
         </div>
       </div>
@@ -102,7 +124,9 @@ Browse.defaultProps = {
 }
 
 Browse.propTypes = {
-  cocktails: PropTypes.any
+  cocktails: PropTypes.any,
+  removeCocktail: PropTypes.func,
+  addCocktail: PropTypes.func
 }
 
 const mapStateToProps = (state) => {

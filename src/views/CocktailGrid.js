@@ -8,7 +8,9 @@ export class CocktailGrid extends React.Component {
       <div id='columnLayout'>
         {this.props.items.map((d, i) => {
           return (
-            <CocktailCard key={i} data={d} />
+            <CocktailCard key={i} data={d}
+              onButtonClick={this.props.onButtonClick}
+              button='Remove' />
           )
         })}
       </div>
@@ -17,10 +19,12 @@ export class CocktailGrid extends React.Component {
 }
 
 CocktailGrid.defaultProps = {
+  onButtonClick: () => {},
   items: []
 }
 
 CocktailGrid.propTypes = {
+  onButtonClick: PropTypes.func,
   items: PropTypes.any
 }
 

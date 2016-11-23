@@ -1,10 +1,18 @@
 import { addItem, removeItem, clearItems } from './list'
 import { ADD_ITEM, REMOVE_ITEM, CLEAR_ITEMS } from '../actions'
 
-import cocktails from '../../data/cocktails.json'
+let localData = localStorage.getItem('cocktails')
+
+if (localData === null) {
+  localData = []
+} else {
+  localData = JSON.parse(localData)
+}
+
+console.log(localData)
 
 const initialState = {
-  items: cocktails
+  items: localData
 }
 
 export default (state = initialState, action) => {

@@ -1,6 +1,16 @@
 import React, { PropTypes } from 'react'
 
 export class CocktailCard extends React.Component {
+  constructor (props) {
+    super(props)
+
+    this.onButtonClick = this.onButtonClick.bind(this)
+  }
+
+  onButtonClick () {
+    this.props.onButtonClick(this.props.data)
+  }
+
   render () {
     if (Object.keys(this.props.data).length === 0) {
       return <div />
@@ -44,16 +54,21 @@ export class CocktailCard extends React.Component {
             )
           })}
         </ul>
+        <input type='button' onClick={this.onButtonClick} value={this.props.button} />
       </figure>
     )
   }
 }
 
 CocktailCard.defaultProps = {
+  onButtonClick: () => {},
+  button: '',
   data: {}
 }
 
 CocktailCard.propTypes = {
+  onButtonClick: PropTypes.func,
+  button: PropTypes.string,
   data: PropTypes.any
 }
 

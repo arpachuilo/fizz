@@ -42,6 +42,7 @@ const common = {
     new HtmlPlugin({
       template: path.join(PATHS.app, 'index-template.html'),
       inject: 'body',
+      favicon: 'src/images/icon.png',
       filename: 'index.html'
     }),
     new webpack.ProvidePlugin({

@@ -13,13 +13,13 @@ class Home extends React.Component {
   }
 
   removeCocktail (d) {
-
+    this.props.removeCocktail(d)
   }
 
   render () {
     return (
       <div className='row'>
-        <CocktailGrid items={this.props.cocktails} />
+        <CocktailGrid items={this.props.cocktails} onButtonClick={this.removeCocktail} />
       </div>
     )
   }
