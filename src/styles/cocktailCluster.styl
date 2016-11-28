@@ -1,53 +1,41 @@
-.clusterPoint text
-  text-anchor middle
-  font-size 0.95em
-
-.clusterPoint circle
-  cursor pointer
-  animation-name shrink
-  animation-duration 1s
-  animation-timing-function linear
-  animation-fill-mode forwards
-
-.clusterPoint .highlighted
-  opacity 1
-  stroke-width 2px
-  stroke #666
-
-.clusterPoint circle:not(.highlighted)
-  opacity 0.4
-
-@keyframes shrink {
-  from {
-    r: 15;
-  }
-  to {
-    r: 10;
-  }
-}
-
-.clusterPoint circle:hover
-  animation-name expand
-  animation-duration 1s
-  animation-timing-function linear
-  animation-fill-mode forwards
-
-@keyframes expand {
-  from {
-    r: 10;
-  }
-  to {
-    r: 15;
-  }
-}
-
 .cluster-0
-  fill rgb(79,140,157)
+  background-color rgb(79,140,157)
 .cluster-1
-  fill rgb(228,26,114)
+  background-color rgb(228,26,114)
 .cluster-2
-  fill rgb(22,208,174)
+  background-color rgb(22,208,174)
 .cluster-3
-  fill rgb(132,36,17)
+  background-color rgb(132,36,17)
 .cluster-4
-  fill rgb(167,232,49)
+  background-color rgb(167,232,49)
+
+div[class^='row cluster-']
+  margin-bottom 1em
+  padding 1em 1em 1em 1em
+
+.clusterItem
+  cursor pointer
+  display inline-block
+  margin-right 1em
+  transition background-color 0.4s ease-in-out
+  transition color 0.4s ease-in-out
+
+.clusterItem:hover
+  background-color rgba(0,0,0,0.75)
+  color whitesmoke
+  transition background-color 0.2s ease-in-out
+  transition color 0.2s ease-in-out
+
+
+.clusterItem.highlighted
+  background-color rgba(0,0,0,0.75)
+  color whitesmoke
+  transition background-color 0.4s ease-in-out
+  transition color 0.4s ease-in-out
+
+
+.clusterItem img
+  display block
+  margin auto
+  width 32px
+  height 32px
