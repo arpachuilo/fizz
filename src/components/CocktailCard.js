@@ -19,7 +19,7 @@ export class CocktailCard extends React.Component {
     }
 
     let { title, directions, picture, drinkware, served, cluster, ingredients } = this.props.data
-    console.log(picture.length)
+
     return (
       <figure className={'clusterCard-' + cluster}>
         <h4 className='title'>{title}</h4>
@@ -39,11 +39,18 @@ export class CocktailCard extends React.Component {
         <span className='bold'>Ingredients: </span>
         <ul className='ingredients'>
           {ingredients.map((d, i) => {
+            let amount = d.amount
+            let unit = d.unit
+            let ingredient = d.ingredient.replace(/\w\S*/g, (s) => {
+              return s.charAt(0).toUpperCase() + s.substr(1).toLowerCase()
+            })
+            if (unit !== '') unit += ' - '
+            if (amount !== '') amount += ' '
             return (
               <li key={i}>
-                <span className='amount'>{d.amount + ' '}</span>
-                <span className='unit'>{d.unit + ' - '}</span>
-                <span className='ingredient'>{d.ingredient}</span>
+                <span className='amount'>{amount}</span>
+                <span className='unit'>{unit}</span>
+                <span className='ingredient'>{ingredient}</span>
               </li>
             )
           })}
