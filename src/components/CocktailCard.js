@@ -1,5 +1,7 @@
 import React, { PropTypes } from 'react'
 
+import missing from '../images/missing.png'
+
 export class CocktailCard extends React.Component {
   constructor (props) {
     super(props)
@@ -17,19 +19,11 @@ export class CocktailCard extends React.Component {
     }
 
     let { title, directions, picture, drinkware, served, cluster, ingredients } = this.props.data
-
-    // Collapse ingredients into easy to digest form
-    let cleanedIngredients = []
-    Object.keys(ingredients).forEach((key, i) => {
-      ingredients[key].forEach((d, j) => {
-        cleanedIngredients.push(d)
-      })
-    })
-
+    console.log(picture.length)
     return (
       <figure className={'clusterCard-' + cluster}>
         <h4 className='title'>{title}</h4>
-        <img className='picture' src={picture} />
+        <img className='picture' src={(picture.length !== 0) ? picture : missing} />
         <p className='drinkware'>
           <span className='bold'>Drinkware: </span>
           <span>{drinkware}</span>
@@ -44,11 +38,11 @@ export class CocktailCard extends React.Component {
         </p>
         <span className='bold'>Ingredients: </span>
         <ul className='ingredients'>
-          {cleanedIngredients.map((d, i) => {
+          {ingredients.map((d, i) => {
             return (
               <li key={i}>
-                <span className='amount'>{d.quantity.amt + ' '}</span>
-                <span className='unit'>{d.quantity.unit + ' - '}</span>
+                <span className='amount'>{d.amount + ' '}</span>
+                <span className='unit'>{d.unit + ' - '}</span>
                 <span className='ingredient'>{d.ingredient}</span>
               </li>
             )

@@ -23,11 +23,10 @@ csvData[0].append('served')
 
 # Loop over ingredients to create ingredient headers
 for recipe in jsonData:
-    for ingredientCategory in recipe['ingredients']:
-        for ingredientObject in recipe['ingredients'][ingredientCategory]:
-            # NOTE: Stripping commas just in case as well
-            if ((str(ingredientObject['ingredient']).replace(',', '').lower() not in csvData[0])):
-                csvData[0].append(str(ingredientObject['ingredient']).replace(',', '').lower())
+    for ingObj in recipe['ingredients']:
+        # NOTE: Stripping commas just in case as well
+        if ((str(ingObj['ingredient']).replace(',', '').lower() not in csvData[0])):
+            csvData[0].append(str(ingObj['ingredient']).replace(',', '').lower())
 
 # Second loop to establish each recipe row
 for index, recipe in enumerate(jsonData):
@@ -46,10 +45,9 @@ for index, recipe in enumerate(jsonData):
         csvData[index + 1].append(0)
 
     # Fill existing ingredients with 1s
-    for ingredientCategory in recipe['ingredients']:
-        for ingredientObject in recipe['ingredients'][ingredientCategory]:
-            i = csvData[0].index(str(ingredientObject['ingredient']).lower())
-            csvData[index + 1][i] = 1
+    for ingObj in recipe['ingredients']:
+        i = csvData[0].index(str(ingObj['ingredient']).lower())
+        csvData[index + 1][i] = 1
 
 # Dump into csvData
 with open(sys.argv[1].replace('json', 'csv'), 'wb') as f:

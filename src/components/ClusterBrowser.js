@@ -1,5 +1,7 @@
 import React, { PropTypes } from 'react'
 
+import missing from '../images/missing.png'
+
 export class ClusterBrowser extends React.Component {
   constructor (props) {
     super(props)
@@ -45,7 +47,7 @@ export class ClusterBrowser extends React.Component {
                 if (this.props.suggestedCocktails.includes(d)) itemClass += ' highlighted'
                 return (
                   <div key={i} className={itemClass} data-index={cluster[0] + ',' + i} onClick={this.onClick}>
-                    <img src={d.picture} />
+                    <img src={(d.picture.length !== 0) ? d.picture : missing} />
                     <span>{d.title}</span>
                   </div>
                 )

@@ -25,15 +25,13 @@ const searchEngine = new Bloodhound({
       }
     }
 
-    Object.keys(d['ingredients']).forEach((key) => {
-      d['ingredients'][key].forEach((d) => {
-        let stringSize = d.ingredient.length
-        for (let size = 1; size <= stringSize; size++) {
-          for (let i = 0; i + size <= stringSize; i++) {
-            tokens.push(d.ingredient.substr(i, size))
-          }
+    d['ingredients'].forEach((d) => {
+      let stringSize = d.ingredient.length
+      for (let size = 1; size <= stringSize; size++) {
+        for (let i = 0; i + size <= stringSize; i++) {
+          tokens.push(d.ingredient.substr(i, size))
         }
-      })
+      }
     })
     return tokens
   }

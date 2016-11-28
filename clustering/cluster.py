@@ -10,7 +10,7 @@ X = np.genfromtxt(sys.argv[1], dtype=object, delimiter=',')[:, 3:]
 X[:, 0] = X[:, 0].astype(float)
 
 kproto = kprototypes.KPrototypes(n_clusters=5, init='Cao', verbose=2)
-clusters = kproto.fit_predict(X, categorical=[65])
+clusters = kproto.fit_predict(X, categorical=[92])
 
 # Print cluster centroids of the trained model.
 print(kproto.cluster_centroids_)

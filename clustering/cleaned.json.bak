@@ -1,0 +1,2218 @@
+[
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gin_Alexander_%284371721753%29.jpg/220px-Gin_Alexander_%284371721753%29.jpg",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "cognac"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "creme de cacao"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "light cream"
+            }
+        ],
+        "title": "Alexander",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Alexander_(cocktail)",
+        "directions": "Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Americano_cocktail_at_Nightwood_Restaurant.jpg/220px-Americano_cocktail_at_Nightwood_Restaurant.jpg",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "Campari"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "red vermouth"
+            },
+            {
+                "amount": "splash",
+                "unit": "",
+                "ingredient": "soda water"
+            }
+        ],
+        "title": "Americano",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Americano_(cocktail)",
+        "directions": "Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "Apricot brandy"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "Calvados"
+            }
+        ],
+        "title": "Angel Face",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Angel_Face_(cocktail)",
+        "directions": "Shake all ingredients with ice and strain contents into a cocktail glass.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aviation_Cocktail.jpg/220px-Aviation_Cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "cherry liqueur"
+            }
+        ],
+        "title": "Aviation",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Aviation_(cocktail)",
+        "directions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bacardi_cocktail.jpg/220px-Bacardi_cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "white rum"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "lime juice"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "grenadine"
+            }
+        ],
+        "title": "Bacardi cocktail",
+        "cluster": 1,
+        "link": "https://en.wikipedia.org/wiki/Bacardi_cocktail",
+        "directions": "Shake together with ice. Strain into glass and serve",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Between_The_Sheets_Cocktail.jpg/220px-Between_The_Sheets_Cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "white rum"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "cognac"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "triple sec"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            }
+        ],
+        "title": "Between the Sheets",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Between_the_Sheets_(cocktail)",
+        "directions": "Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "Maraschino"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "orange bitters"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            }
+        ],
+        "title": "Casino",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Casino_(cocktail)",
+        "directions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/en/thumb/9/99/Cloverclub.jpg/220px-Cloverclub.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "Gin"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Lemon Juice"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Raspberry Syrup"
+            },
+            {
+                "amount": "1",
+                "unit": "",
+                "ingredient": "Egg White"
+            }
+        ],
+        "title": "Clover Club Cocktail",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Clover_Club_Cocktail",
+        "directions": "Dry shake ingredients to emulsify, add ice, shake and served straight up.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Classic_Daiquiri_in_Cocktail_Glass.jpg/220px-Classic_Daiquiri_in_Cocktail_Glass.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "white rum"
+            },
+            {
+                "amount": "2.5",
+                "unit": "cl",
+                "ingredient": "lime juice"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "sugar syrup"
+            }
+        ],
+        "title": "Daiquiri",
+        "cluster": 1,
+        "link": "https://en.wikipedia.org/wiki/Daiquiri",
+        "directions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "6",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "2",
+                "unit": "dashes",
+                "ingredient": "peach bitters"
+            },
+            {
+                "amount": "2",
+                "unit": "leaves",
+                "ingredient": "mint"
+            }
+        ],
+        "title": "Derby",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Derby_(cocktail)",
+        "directions": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/15-09-26-RalfR-WLC-0084.jpg/220px-15-09-26-RalfR-WLC-0084.jpg",
+        "ingredients": [
+            {
+                "amount": "6",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "dry vermouth"
+            }
+        ],
+        "title": "Martini",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Martini_(cocktail)",
+        "directions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+        "served": "straight (or on the rocks)",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/15-09-26-RalfR-WLC-0032.jpg/220px-15-09-26-RalfR-WLC-0032.jpg",
+        "ingredients": [
+          {
+            "amount": "4.5",
+            "unit": "cl",
+            "ingredient": "gin"
+          },
+          {
+            "amount": "3",
+            "unit": "cl",
+            "ingredient": "lemon juice"
+          },
+          {
+            "amount": "1",
+            "unit": "cl",
+            "ingredient": "gomme syrup"
+          },
+          {
+            "amount": "8",
+            "unit": "cl",
+            "ingredient": "soda watere"
+          }
+        ],
+        "title": "Gin Fizz",
+        "cluster": 2,
+        "link": "https://en.wikipedia.org/wiki/Fizz_(cocktail)#Gin_Fizz",
+        "directions": "Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "Gin"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "sugar syrup"
+            },
+            {
+                "amount": "6",
+                "unit": "cl",
+                "ingredient": "carbonated water"
+            }
+        ],
+        "title": "John Collins",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/John_Collins_(cocktail)",
+        "directions": "Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Collins glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Manhattan_Cocktail2.jpg/220px-Manhattan_Cocktail2.jpg",
+        "ingredients": [
+            {
+                "amount": "5",
+                "unit": "cL",
+                "ingredient": "Rye whiskey"
+            },
+            {
+                "amount": "2",
+                "unit": "cL",
+                "ingredient": "red vermouth"
+            },
+            {
+                "amount": "1",
+                "unit": "dash",
+                "ingredient": "Angostura bitters"
+            }
+        ],
+        "title": "Manhattan",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Manhattan_(cocktail)",
+        "directions": "Stirred over ice, strained into a chilled glass, garnished, and served up.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "6",
+                "unit": "cl",
+                "ingredient": "white rum"
+            },
+            {
+                "amount": "6",
+                "unit": "cl",
+                "ingredient": "pineapple juice"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "Grenadine"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "Maraschino"
+            }
+        ],
+        "title": "Mary Pickford",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Mary_Pickford_(cocktail)",
+        "directions": "Shake and strain into a chilled large cocktail glass",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Monkey_Gland_%2811677703163%29.jpg/220px-Monkey_Gland_%2811677703163%29.jpg",
+        "ingredients": [
+            {
+                "amount": "5",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "orange juice"
+            },
+            {
+                "amount": "2",
+                "unit": "drops",
+                "ingredient": "absinthe"
+            },
+            {
+                "amount": "2",
+                "unit": "drops",
+                "ingredient": "grenadine"
+            }
+        ],
+        "title": "Monkey Gland",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Monkey_Gland",
+        "directions": "Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Negroni_served_in_Vancouver_BC.jpg/220px-Negroni_served_in_Vancouver_BC.jpg",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "red vermouth"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "campari"
+            }
+        ],
+        "title": "Negroni",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Negroni",
+        "directions": "Stir into glass over ice, garnish and serve.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Young_Laddie_Cocktail.jpg/220px-The_Young_Laddie_Cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cL",
+                "ingredient": "Bourbon whiskey"
+            },
+            {
+                "amount": "2",
+                "unit": "dashes",
+                "ingredient": "Angostura bitters"
+            },
+            {
+                "amount": "1",
+                "unit": "",
+                "ingredient": "sugar cube"
+            },
+            {
+                "amount": "",
+                "unit": "dashes",
+                "ingredient": "water"
+            }
+        ],
+        "title": "Old Fashioned",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Old_Fashioned",
+        "directions": "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Garnish with orange twist, and a cocktail cherry.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Paradise_cocktail.jpg/220px-Paradise_cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "3.5",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "apricot brandy"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "orange juice"
+            }
+        ],
+        "title": "Paradise",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Paradise_(cocktail)",
+        "directions": "Shake together over ice. Strain into cocktail glass and serve chilled.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Planters_Punch_2.jpg/220px-Planters_Punch_2.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "Dark rum"
+            },
+            {
+                "amount": "3.5",
+                "unit": "cl",
+                "ingredient": "orange juice"
+            },
+            {
+                "amount": "3.5",
+                "unit": "cl",
+                "ingredient": "pineapple juice"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "Grenadine"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "Sugar syrup"
+            },
+            {
+                "amount": "4",
+                "unit": "dashes",
+                "ingredient": "Angostura bitters"
+            }
+        ],
+        "title": "Planter's Punch",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Planter%27s_Punch",
+        "directions": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, \"on top\". Garnish with cocktail cherry and pineapple.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Highball glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Porto_Flip.jpg/220px-Porto_Flip.jpg",
+        "ingredients": [
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "brandy"
+            },
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "port"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "egg yolk"
+            }
+        ],
+        "title": "Porto flip",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Porto_flip",
+        "directions": "Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ramos_Gin_Fizz.jpg/220px-Ramos_Gin_Fizz.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "Gin"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "lime juice"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "sugar syrup"
+            },
+            {
+                "amount": "6",
+                "unit": "cl",
+                "ingredient": "cream"
+            },
+            {
+                "amount": "1",
+                "unit": "",
+                "ingredient": "egg white"
+            },
+            {
+                "amount": "3",
+                "unit": "dashes",
+                "ingredient": "orange flower water"
+            },
+            {
+                "amount": "2",
+                "unit": "drops",
+                "ingredient": "vanilla extract"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "ingredient": "Soda water"
+            }
+        ],
+        "title": "Ramos Fizz",
+        "cluster": 2,
+        "link": "https://en.wikipedia.org/wiki/Fizz_(cocktail)#Ramos_Gin_Fizz",
+        "directions": "All ingredients except the soda are poured in a mixing glass, dry shaken (no ice) for two minutes, then ice is added and shaken hard for another minute. Strain into a highball glass without ice and topped with soda",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "Scotch Whisky"
+            },
+            {
+                "amount": "2.5",
+                "unit": "cl",
+                "ingredient": "Drambuie"
+            }
+        ],
+        "title": "Rusty Nail",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Rusty_Nail_(cocktail)",
+        "directions": "Pour all ingredients directly into old-fashioned glass filled with ice. Stir gently. Garnish with a lemon twist. Serve.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sazerac_Cocktail.jpg/220px-Sazerac_Cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "5",
+                "unit": "cl",
+                "ingredient": "Cognac"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "Absinthe"
+            },
+            {
+                "amount": "1",
+                "unit": "",
+                "ingredient": "sugar cube"
+            },
+            {
+                "amount": "2",
+                "unit": "dashes",
+                "ingredient": "Peychaud's Bitters"
+            }
+        ],
+        "title": "Sazerac",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Sazerac",
+        "directions": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.[1]",
+        "served": "Straight up; without ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Screwdriver%2C_Birmingham-Shuttlesworth_International_Airport%2C_Birmingham_AL.jpg/220px-Screwdriver%2C_Birmingham-Shuttlesworth_International_Airport%2C_Birmingham_AL.jpg",
+        "ingredients": [
+            {
+                "amount": "5",
+                "unit": "cL",
+                "ingredient": "vodka"
+            },
+            {
+                "amount": "10",
+                "unit": "cL",
+                "ingredient": "orange juice"
+            }
+        ],
+        "title": "Screwdriver",
+        "cluster": 0,
+        "link": "https://en.wikipedia.org/wiki/Screwdriver_(cocktail)",
+        "directions": "Mix in a highball glass with ice. Garnish and serve.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Highball glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sidecar-cocktail.jpg/220px-Sidecar-cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "5",
+                "unit": "cl",
+                "ingredient": "cognac"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "triple sec"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            }
+        ],
+        "title": "Sidecar",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Sidecar_(cocktail)",
+        "directions": "Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.",
+        "served": "Straight up (without ice)",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Stinger_Cocktail.jpg/220px-Stinger_Cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "5",
+                "unit": "cl",
+                "ingredient": "cognac"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "creme de menthe"
+            }
+        ],
+        "title": "Stinger",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Stinger_(cocktail)",
+        "directions": "Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "dry Vermouth"
+            },
+            {
+                "amount": "1/2",
+                "unit": "barspoon",
+                "ingredient": "Maraschino"
+            },
+            {
+                "amount": "",
+                "unit": "1/4",
+                "ingredient": "Absinthe"
+            },
+            {
+                "amount": "3",
+                "unit": "dashes",
+                "ingredient": "orange bitters"
+            }
+        ],
+        "title": "Tuxedo",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Tuxedo_(cocktail)",
+        "directions": "Stir all ingredients with ice and strain into a cocktail glass. Garnish with a cherry and a twist of lemon zest.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Whiskey_Sour.jpg/220px-Whiskey_Sour.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "Bourbon whiskey"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Gomme syrup"
+            },
+            {
+                "amount": "",
+                "unit": "dash",
+                "ingredient": "egg white"
+            }
+        ],
+        "title": "Whiskey sour",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Whiskey_sour",
+        "directions": "Shake with ice. Strain into chilled glass, garnish and serve.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "Triple Sec"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            }
+        ],
+        "title": "Sour",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Sour_(cocktail)#White_Lady",
+        "directions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg/220px-Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg",
+        "ingredients": [
+            {
+                "amount": "10",
+                "unit": "cl",
+                "ingredient": "Prosecco"
+            },
+            {
+                "amount": "5",
+                "unit": "cl",
+                "ingredient": "peach puree"
+            }
+        ],
+        "title": "Bellini",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Bellini_(cocktail)",
+        "directions": "Pour peach puree into chilled flute, add sparkling wine. Stir gently.",
+        "served": "Straight up; without ice",
+        "drinkware": "Champagne flute"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Black_Russian.jpg/220px-Black_Russian.jpg",
+        "ingredients": [
+            {
+                "amount": "5",
+                "unit": "cl",
+                "ingredient": "Vodka"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "Coffee liqueur"
+            }
+        ],
+        "title": "Black Russian",
+        "cluster": 0,
+        "link": "https://en.wikipedia.org/wiki/Black_Russian",
+        "directions": "Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bloody_Mary.jpg/220px-Bloody_Mary.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "Vodka"
+            },
+            {
+                "amount": "9",
+                "unit": "cl",
+                "ingredient": "Tomato juice"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Lemon juice"
+            },
+            {
+                "amount": "2 or 3",
+                "unit": "dashes",
+                "ingredient": "Worcestershire Sauce"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "ingredient": "Tabasco"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "ingredient": "Celery salt"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "ingredient": "Pepper"
+            }
+        ],
+        "title": "Bloody Mary",
+        "cluster": 0,
+        "link": "https://en.wikipedia.org/wiki/Bloody_Mary_(cocktail)",
+        "directions": "Add dashes of Worcestershire Sauce, Tabasco, salt and pepper into highball glass, then pour all ingredients into highball with ice cubes. Stir gently.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Highball glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/15-09-26-RalfR-WLC-0048.jpg/220px-15-09-26-RalfR-WLC-0048.jpg",
+        "ingredients": [
+            {
+                "amount": "5",
+                "unit": "cl",
+                "ingredient": "cachaca"
+            },
+            {
+                "amount": "4",
+                "unit": "",
+                "ingredient": "lime wedge"
+            },
+            {
+                "amount": "2",
+                "unit": "teaspoons",
+                "ingredient": "sugar"
+            }
+        ],
+        "title": "Caipirinha",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Caipirinha",
+        "directions": "Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with crushed ice and add the Cachaca.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "9",
+                "unit": "cl",
+                "ingredient": "Champagne"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "cognac"
+            },
+            {
+                "amount": "2",
+                "unit": "dashes",
+                "ingredient": "Angostura bitters"
+            },
+            {
+                "amount": "1",
+                "unit": "",
+                "ingredient": "sugar cube"
+            }
+        ],
+        "title": "Champagne cocktail",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Champagne_Cocktail",
+        "directions": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.",
+        "served": "Straight up; without ice",
+        "drinkware": "Champagne flute"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cosmopolitan_%285076906532%29.jpg/220px-Cosmopolitan_%285076906532%29.jpg",
+        "ingredients": [
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "Vodka Citron"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Cointreau"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "lime juice"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "Cranberry juice"
+            }
+        ],
+        "title": "Cosmopolitan",
+        "cluster": 1,
+        "link": "https://en.wikipedia.org/wiki/Cosmopolitan_(cocktail)",
+        "directions": "Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/15-09-26-RalfR-WLC-0056.jpg/220px-15-09-26-RalfR-WLC-0056.jpg",
+        "ingredients": [
+            {
+                "amount": "12",
+                "unit": "cL",
+                "ingredient": "Cola"
+            },
+            {
+                "amount": "5",
+                "unit": "cL",
+                "ingredient": "Light rum"
+            },
+            {
+                "amount": "1",
+                "unit": "cL",
+                "ingredient": "lime juice"
+            }
+        ],
+        "title": "Cuba Libre",
+        "cluster": 1,
+        "link": "https://en.wikipedia.org/wiki/Cuba_Libre",
+        "directions": "Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Collins glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/French_75.jpg/220px-French_75.jpg",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "2",
+                "unit": "dashes",
+                "ingredient": "sugar syrup"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            },
+            {
+                "amount": "6",
+                "unit": "cl",
+                "ingredient": "Champagne"
+            }
+        ],
+        "title": "French 75",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/French_75_(cocktail)",
+        "directions": "Combine Cognac, syrup, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently.",
+        "served": "",
+        "drinkware": "Champagne flute"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "3.5",
+                "unit": "cl",
+                "ingredient": "Cognac"
+            },
+            {
+                "amount": "3.5",
+                "unit": "cl",
+                "ingredient": "Disaronno liqueur"
+            }
+        ],
+        "title": "French Connection",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/French_Connection_(cocktail)",
+        "directions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Godfather_cocktail.jpg/220px-Godfather_cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "3.5",
+                "unit": "cl",
+                "ingredient": "Scotch whisky"
+            },
+            {
+                "amount": "3.5",
+                "unit": "cl",
+                "ingredient": "Amaretto"
+            }
+        ],
+        "title": "Godfather",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Godfather_(cocktail)",
+        "directions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Godlen-Dream_Mixed_Drink_Cocktail_%282360538105%29.jpg/220px-Godlen-Dream_Mixed_Drink_Cocktail_%282360538105%29.jpg",
+        "ingredients": [
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "Galliano"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "Triple Sec"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "orange juice"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "cream"
+            }
+        ],
+        "title": "Golden dream",
+        "cluster": 0,
+        "link": "https://en.wikipedia.org/wiki/Golden_dream_(cocktail)",
+        "directions": "Shake with cracked ice. Strain into glass and serve.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grasshopper_cocktail.jpg/220px-Grasshopper_cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "Creme de menthe"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "Creme de cacao"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "cream"
+            }
+        ],
+        "title": "Grasshopper",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Grasshopper_(cocktail)",
+        "directions": "Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Harvey_Wallbanger.jpg/220px-Harvey_Wallbanger.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cL",
+                "ingredient": "Vodka"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cL",
+                "ingredient": "Galliano"
+            },
+            {
+                "amount": "9",
+                "unit": "cL",
+                "ingredient": "orange juice"
+            }
+        ],
+        "title": "Harvey Wallbanger",
+        "cluster": 0,
+        "link": "https://en.wikipedia.org/wiki/Harvey_Wallbanger",
+        "directions": "Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Highball glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+          {
+            "unit": "oz",
+            "amount": "2",
+            "ingredient": "white rum"
+          },
+          {
+            "unit": "oz",
+            "amount": "3/4",
+            "ingredient": "lime juice"
+          },
+          {
+            "unit": "oz",
+            "amount": "1/2",
+            "ingredient": "Grapefruit juice"
+          },
+          {
+            "unit": "oz",
+            "amount": "1/2",
+            "ingredient": "cherry liqueur"
+          },
+          {
+            "unit": "oz",
+            "amount": "1/2",
+            "ingredient": "sugar syrup"
+          }
+        ],
+        "title": "Hemingway Special",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/w/index.php?title=Hemingway_Special&action=edit&redlink=1",
+        "directions": "Combine rum, juices, liqueur, and syrup in ice-filled shaker; shake. Strain over crushed ice into a cocktail glass; garnish with cherries.",
+        "served": "over crushed ice",
+        "drinkware": "Cocktial Glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Horse%27s_Neck_cocktail.jpg/220px-Horse%27s_Neck_cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "4",
+                "unit": "cL",
+                "ingredient": "Brandy"
+            },
+            {
+                "amount": "12",
+                "unit": "cL",
+                "ingredient": "Ginger ale"
+            },
+            {
+                "amount": "1",
+                "unit": "dash",
+                "ingredient": "Angostura bitter"
+            }
+        ],
+        "title": "Horse's Neck",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Horse%27s_Neck",
+        "directions": "Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Highball glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Irish_coffee_glass.jpg/220px-Irish_coffee_glass.jpg",
+        "ingredients": [
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "Irish whiskey"
+            },
+            {
+                "amount": "8",
+                "unit": "cl",
+                "ingredient": "coffee"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "cream"
+            },
+            {
+                "amount": "1",
+                "unit": "tsp",
+                "ingredient": "brown sugar"
+            }
+        ],
+        "title": "Irish coffee",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Irish_Coffee",
+        "directions": "Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.",
+        "served": "Hot",
+        "drinkware": "Irish coffee mug"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kir_cocktail.jpg/220px-Kir_cocktail.jpg",
+        "ingredients": [
+            {
+                "amount": "9",
+                "unit": "cl",
+                "ingredient": "white wine"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "creme de cassis"
+            }
+        ],
+        "title": "Kir",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Kir_(cocktail)",
+        "directions": "Add the creme de cassis to the bottom of the glass, then top up with wine.",
+        "served": "",
+        "drinkware": "Wine glass (white)"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Long_Island_Iced_Teas.jpg/220px-Long_Island_Iced_Teas.jpg",
+        "ingredients": [
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Tequila"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Vodka"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "White rum"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Triple sec"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Gin"
+            },
+            {
+                "amount": "2.5",
+                "unit": "cl",
+                "ingredient": "Lemon juice"
+            },
+            {
+                "amount": "3.0",
+                "unit": "cl",
+                "ingredient": "Gomme Syrup"
+            },
+            {
+                "amount": "1",
+                "unit": "dash",
+                "ingredient": "Cola"
+            }
+        ],
+        "title": "Long Island Iced Tea",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Long_Island_Iced_Tea",
+        "directions": "Add all ingredients into highball glass filled with ice. Stir gently. Garnish with lemon spiral. Serve with straw. [1]",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Highball glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mai_Tai.jpg/220px-Mai_Tai.jpg",
+        "ingredients": [
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "white rum"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "dark rum"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "orange curacao"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Orgeat syrup"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "lime juice"
+            }
+        ],
+        "title": "Mai Tai",
+        "cluster": 1,
+        "link": "https://en.wikipedia.org/wiki/Mai_Tai",
+        "directions": "Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Highball glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/3/37/MargaritaReal.jpg/220px-MargaritaReal.jpg",
+        "ingredients": [
+            {
+                "amount": "3.5",
+                "unit": "cL",
+                "ingredient": "tequila"
+            },
+            {
+                "amount": "2",
+                "unit": "cL",
+                "ingredient": "Cointreau"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cL",
+                "ingredient": "lime juice"
+            }
+        ],
+        "title": "Margarita",
+        "cluster": 1,
+        "link": "https://en.wikipedia.org/wiki/Margarita",
+        "directions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Margarita glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pool-side_Mimosas_at_The_Standard_Hotel.jpg/220px-Pool-side_Mimosas_at_The_Standard_Hotel.jpg",
+        "ingredients": [
+            {
+                "amount": "7.5",
+                "unit": "cl",
+                "ingredient": "champagne"
+            },
+            {
+                "amount": "7.5",
+                "unit": "cl",
+                "ingredient": "orange juice"
+            }
+        ],
+        "title": "Mimosa",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Mimosa_(cocktail)",
+        "directions": "Ensure both ingredients are well chilled, then mix into the glass. Serve cold.",
+        "served": "Neat; undiluted and without ice",
+        "drinkware": "Champagne flute"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mint_Julep_im_Silberbecher.jpg/220px-Mint_Julep_im_Silberbecher.jpg",
+        "ingredients": [
+            {
+                "amount": "6",
+                "unit": "cL",
+                "ingredient": "Bourbon whiskey"
+            },
+            {
+                "amount": "4",
+                "unit": "",
+                "ingredient": "mint leaves"
+            },
+            {
+                "amount": "1",
+                "unit": "teaspoon",
+                "ingredient": "powdered sugar"
+            },
+            {
+                "amount": "2",
+                "unit": "teaspoons",
+                "ingredient": "water"
+            }
+        ],
+        "title": "Mint julep",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Mint_Julep",
+        "directions": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Highball glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/8/87/15-09-26-RalfR-WLC-0067.jpg/220px-15-09-26-RalfR-WLC-0067.jpg",
+        "ingredients": [
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "White rum"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "lime juice"
+            },
+            {
+                "amount": "6",
+                "unit": "",
+                "ingredient": "Mint sprigs"
+            },
+            {
+                "amount": "2",
+                "unit": "teaspoons",
+                "ingredient": "Sugar"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "ingredient": "Soda Water"
+            }
+        ],
+        "title": "Mojito",
+        "cluster": 1,
+        "link": "https://en.wikipedia.org/wiki/Mojito",
+        "directions": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Collins glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Moscow_Mule_at_Rye%2C_San_Francisco.jpg/220px-Moscow_Mule_at_Rye%2C_San_Francisco.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "vodka"
+            },
+            {
+                "amount": "0.5",
+                "unit": "cl",
+                "ingredient": "lime juice"
+            },
+            {
+                "amount": "12",
+                "unit": "cl",
+                "ingredient": "ginger beer"
+            }
+        ],
+        "title": "Moscow mule",
+        "cluster": 1,
+        "link": "https://en.wikipedia.org/wiki/Moscow_Mule",
+        "directions": "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish with a lime slice and sprig of mint on the brim of the copper mug.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "copper mug"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "white rum"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "coconut milk"
+            },
+            {
+                "amount": "9",
+                "unit": "cl",
+                "ingredient": "pineapple juice"
+            }
+        ],
+        "title": "Pina colada",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Pi%C3%B1a_Colada",
+        "directions": "Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve.",
+        "served": "Blended",
+        "drinkware": "Poco"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rose_%28cocktail%29.jpg/220px-Rose_%28cocktail%29.jpg",
+        "ingredients": [
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "dry vermouth"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "Kirsch"
+            },
+            {
+                "amount": "3",
+                "unit": "Dashes",
+                "ingredient": "Strawberry syrup"
+            }
+        ],
+        "title": "Rose",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Rose_(cocktail)",
+        "directions": "Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cocktail_with_vodka.jpg/220px-Cocktail_with_vodka.jpg",
+        "ingredients": [
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "Vodka"
+            },
+            {
+                "amount": "12",
+                "unit": "cl",
+                "ingredient": "Cranberry juice"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "Grapefruit juice"
+            }
+        ],
+        "title": "Sea Breeze",
+        "cluster": 0,
+        "link": "https://en.wikipedia.org/wiki/Sea_Breeze_(cocktail)",
+        "directions": "Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Highball glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sex_On_The_Beach.jpg/220px-Sex_On_The_Beach.jpg",
+        "ingredients": [
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "Vodka"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "Peach schnapps"
+            },
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "Orange juice"
+            },
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "Cranberry juice"
+            }
+        ],
+        "title": "Sex on the Beach",
+        "cluster": 0,
+        "link": "https://en.wikipedia.org/wiki/Sex_on_the_Beach",
+        "directions": "Build all ingredients in a highball glass filled with ice. Garnish with orange slice.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Highball glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Singapore_Sling.jpg/220px-Singapore_Sling.jpg",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "Gin"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Cherry Liqueur"
+            },
+            {
+                "amount": "0.75",
+                "unit": "cl",
+                "ingredient": "Cointreau"
+            },
+            {
+                "amount": "0.75",
+                "unit": "cl",
+                "ingredient": "Benedictine"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "Grenadine"
+            },
+            {
+                "amount": "12",
+                "unit": "cl",
+                "ingredient": "Pineapple juice"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "lime juice"
+            },
+            {
+                "amount": "1",
+                "unit": "dash",
+                "ingredient": "Angostura bitters"
+            }
+        ],
+        "title": "Singapore Sling",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Singapore_Sling",
+        "directions": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry.",
+        "served": "Straight up; without ice",
+        "drinkware": "Hurricane glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tequila_Sunrise_garnished_with_orange_and_cherry_-_Evan_Swigart.jpg/220px-Tequila_Sunrise_garnished_with_orange_and_cherry_-_Evan_Swigart.jpg",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "Tequila"
+            },
+            {
+                "amount": "9",
+                "unit": "cl",
+                "ingredient": "Orange juice"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Grenadine"
+            }
+        ],
+        "title": "Tequila Sunrise",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Tequila_Sunrise_(cocktail)",
+        "directions": "Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Collins glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/3/3a/Cocktail_B52.jpg",
+        "ingredients": [
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "coffee liqueur"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "Irish Cream"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "Cognac"
+            }
+        ],
+        "title": "B-52",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/B-52_(cocktail)",
+        "directions": "Layer ingredients into a shot glass. Serve with a stirrer.",
+        "served": "Neat; undiluted and without ice",
+        "drinkware": "Shot glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+          {
+            "amount": "2",
+            "unit": "oz",
+            "ingredient": "Prosecco"
+          },
+          {
+            "amount": "1/2",
+            "unit": "oz",
+            "ingredient": "Galliano"
+          },
+          {
+            "amount": "2",
+            "unit": "oz",
+            "ingredient": "pineapple juice"
+          },
+          {
+            "amount": "1",
+            "unit": "dash",
+            "ingredient": "lime juice"
+          }
+        ],
+        "title": "Barracuda",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/w/index.php?title=Barracuda_(cocktail)&action=edit&redlink=1",
+        "directions": "Pour all ingredients except the wine in a chilled glass. Top with the sparkling wine.",
+        "served": "in chilled glass",
+        "drinkware": "Highball Glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bramble_Cocktail1.jpg/220px-Bramble_Cocktail1.jpg",
+        "ingredients": [
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "sugar syrup"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "blackberry liqueur"
+            }
+        ],
+        "title": "Bramble",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Bramble_(cocktail)",
+        "directions": "Fill glass with crushed ice. Build gin, lemon juice and sugar syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.",
+        "served": "",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dark_%27N%27_Stormy.jpg/220px-Dark_%27N%27_Stormy.jpg",
+        "ingredients": [
+            {
+                "amount": "6",
+                "unit": "cl",
+                "ingredient": "dark rum"
+            },
+            {
+                "amount": "10",
+                "unit": "cl",
+                "ingredient": "Ginger beer"
+            }
+        ],
+        "title": "Dark 'N' Stormy",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Dark_%27N%27_Stormy",
+        "directions": "In a highball glass filled with ice add 6cl dark rum and top with ginger beer. Garnish with lime wedge.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Highball glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/15-09-26-RalfR-WLC-0084.jpg/220px-15-09-26-RalfR-WLC-0084.jpg",
+        "ingredients": [
+            {
+                "amount": "6",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "dry vermouth"
+            }
+        ],
+        "title": "Martini",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Martini_(cocktail)",
+        "directions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+        "served": "straight (or on the rocks)",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bistrot_Bruno_Loubet%2C_Clerkenwell%2C_London_%284574785649%29.jpg/220px-Bistrot_Bruno_Loubet%2C_Clerkenwell%2C_London_%284574785649%29.jpg",
+        "ingredients": [
+            {
+                "amount": "5",
+                "unit": "cl",
+                "ingredient": "Vodka"
+            },
+            {
+                "amount": "1",
+                "unit": "cl",
+                "ingredient": "coffee liqueur"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "ingredient": "Sugar syrup"
+            },
+            {
+                "amount": "1",
+                "unit": "shot",
+                "ingredient": "Espresso"
+            }
+        ],
+        "title": "Espresso Martini",
+        "cluster": 0,
+        "link": "https://en.wikipedia.org/wiki/Espresso_Martini",
+        "directions": "Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Vodka"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Chambord"
+            },
+            {
+                "amount": "3.0",
+                "unit": "cl",
+                "ingredient": "pineapple juice"
+            }
+        ],
+        "title": "French Martini",
+        "cluster": 0,
+        "link": "https://en.wikipedia.org/wiki/French_Martini",
+        "directions": "Pour all ingredients into mixing glass with ice cubes. Shake well and strain into a chilled cocktail glass.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kamikaze.jpg/220px-Kamikaze.jpg",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "vodka"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "triple sec"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "lime juice"
+            }
+        ],
+        "title": "Kamikaze",
+        "cluster": 1,
+        "link": "https://en.wikipedia.org/wiki/Kamikaze_(cocktail)",
+        "directions": "Shake all ingredients together with ice. Strain into glass, garnish and serve.",
+        "served": "Straight up; without ice",
+        "drinkware": "Cocktail glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lemon_Drop_cocktails.jpg/220px-Lemon_Drop_cocktails.jpg",
+        "ingredients": [
+            {
+                "amount": "2.5",
+                "unit": "cl",
+                "ingredient": "vodka"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "triple sec"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            }
+        ],
+        "title": "Lemon Drop",
+        "cluster": 0,
+        "link": "https://en.wikipedia.org/wiki/Lemon_Drop_Martini",
+        "directions": "Shake and strain into a chilled cocktail glass rimmed with sugar.",
+        "served": "Straight up; without ice",
+        "drinkware": "Martini glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pisco_sour_20100613b.JPG/220px-Pisco_sour_20100613b.JPG",
+        "ingredients": [
+            {
+                "amount": "4.5",
+                "unit": "cl",
+                "ingredient": "Pisco"
+            },
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "lemon juice"
+            },
+            {
+                "amount": "2",
+                "unit": "cl",
+                "ingredient": "sugar syrup"
+            },
+            {
+                "amount": "1",
+                "unit": "",
+                "ingredient": "egg white"
+            }
+        ],
+        "title": "Pisco sour",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Pisco_sour",
+        "directions": "Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.[1]",
+        "served": "Straight up; without ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+          {
+            "amount": "2.5",
+            "unit": "cl",
+            "ingredient": "Vodka"
+          },
+          {
+            "amount": "1.5",
+            "unit": "cl",
+            "ingredient": "creme de cassis"
+          },
+          {
+            "amount": "1",
+            "unit": "cl",
+            "ingredient": "sugar syrup"
+          },
+          {
+            "amount": "2.5",
+            "unit": "cl",
+            "ingredient": "lemon juice"
+          }
+        ],
+        "title": "Russian Spring Punch",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/w/index.php?title=Russian_Spring_Punch&action=edit&redlink=1",
+        "directions": "Shake the ingredients and pour into highball glass. Top with Sparkling wine. Garnish with a lemon slice and a blackberry.",
+        "served": "",
+        "drinkware": "Highball Glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "6",
+                "unit": "cl",
+                "ingredient": "Prosecco"
+            },
+            {
+                "amount": "4",
+                "unit": "cl",
+                "ingredient": "Aperol"
+            },
+            {
+                "amount": "1",
+                "unit": "splash",
+                "ingredient": "Soda water"
+            }
+        ],
+        "title": "Spritz (alcoholic beverage)",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/wiki/Spritz_Veneziano",
+        "directions": "Build into glass over ice, garnish and serve.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Old Fashioned glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/3/37/MargaritaReal.jpg/220px-MargaritaReal.jpg",
+        "ingredients": [
+            {
+                "amount": "3.5",
+                "unit": "cL",
+                "ingredient": "tequila"
+            },
+            {
+                "amount": "2",
+                "unit": "cL",
+                "ingredient": "Cointreau"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cL",
+                "ingredient": "lime juice"
+            }
+        ],
+        "title": "Margarita",
+        "cluster": 1,
+        "link": "https://en.wikipedia.org/wiki/Margarita",
+        "directions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.",
+        "served": "On the rocks; poured over ice",
+        "drinkware": "Margarita glass"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+          {
+            "amount": "2",
+            "unit": "cl",
+            "ingredient": "tequila"
+          },
+          {
+            "amount": "1",
+            "unit": "cl",
+            "ingredient": "Tomato juice"
+          },
+          {
+            "amount": "1",
+            "unit": "cl",
+            "ingredient": "orange juice"
+          },
+          {
+            "amount": "1/2",
+            "unit": "cl",
+            "ingredient": "lime juice"
+          },
+          {
+            "amount": "1/2",
+            "unit": "cl",
+            "ingredient": "grenadine"
+          },
+          {
+            "amount": "7",
+            "unit": "drops",
+            "ingredient": "Tabasco"
+          },
+          {
+            "amount": "",
+            "unit": "",
+            "ingredient": "salt"
+          },
+          {
+            "amount": "",
+            "unit": "",
+            "ingredient": "pepper"
+          }
+        ],
+        "title": "Vampiro",
+        "cluster": 4,
+        "link": "https://en.wikipedia.org/w/index.php?title=Vampiro_(cocktail)&action=edit&redlink=1",
+        "directions": "Shake all ingredients with ice and strain into ice-filled glass",
+        "served": "on ice",
+        "drinkware": "old-fashioned glass"
+    },
+    {
+        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vesper_Martini_%28corrected%29.jpg/220px-Vesper_Martini_%28corrected%29.jpg",
+        "ingredients": [
+            {
+                "amount": "6",
+                "unit": "cl",
+                "ingredient": "gin"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "vodka"
+            },
+            {
+                "amount": "0.75",
+                "unit": "cl",
+                "ingredient": "Lillet Blanc"
+            }
+        ],
+        "title": "Vesper",
+        "cluster": 3,
+        "link": "https://en.wikipedia.org/wiki/Vesper_(cocktail)",
+        "directions": "Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.",
+        "served": "Straight up; without ice",
+        "drinkware": "Champagne coupe"
+    },
+    {
+        "picture": "",
+        "ingredients": [
+            {
+                "amount": "3",
+                "unit": "cl",
+                "ingredient": "White Rum"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Galliano"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Triple sec"
+            },
+            {
+                "amount": "1.5",
+                "unit": "cl",
+                "ingredient": "Lime juice"
+            }
+        ],
+        "title": "Yellow Bird",
+        "cluster": 1,
+        "link": "https://en.wikipedia.org/wiki/Yellow_Bird_(cocktail)",
+        "directions": "Shake and strain into a chilled cocktail glass",
+        "served": "",
+        "drinkware": "Cocktail glass"
+    }
+]
