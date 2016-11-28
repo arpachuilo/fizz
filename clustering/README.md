@@ -13,8 +13,8 @@ Warning: this might not go so easily on windows
 
 ### Usage
 1. Run `python crawl.py`
-2. Run `python convert.py cocktails.json`
-3. Remove header from cocktails.json
-4. Run `python cluster.py cocktails.csv`
+2. Run `python convert.py [FILENAME.json]`
+3. Remove header from [FILENAME.json]
+4. Run `python cluster.py [FILENAME.json] [CLUSTER_COUNT]`
 
 NOTE: Some hand cleaning had to be done . . .

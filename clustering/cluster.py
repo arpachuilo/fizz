@@ -3,21 +3,21 @@
 import json
 import sys
 import numpy as np
-from kmodes import kprototypes
+from kmodes import kmodes
 
 syms = np.genfromtxt(sys.argv[1], dtype=str, delimiter=',')[:, 0]
 X = np.genfromtxt(sys.argv[1], dtype=object, delimiter=',')[:, 3:]
 X[:, 0] = X[:, 0].astype(float)
 
-kproto = kprototypes.KPrototypes(n_clusters=5, init='Cao', verbose=2)
-clusters = kproto.fit_predict(X, categorical=[92])
+kmode = kmodes.KModes(n_clusters=int(sys.argv[2]), init='Huang', n_init=100, verbose=2)
+clusters = kmode.fit_predict(X, categorical=[92])
 
 # Print cluster centroids of the trained model.
-print(kproto.cluster_centroids_)
+print(kmode.cluster_centroids_)
 
 # Print training statistics
-print("Costs: {}".format(kproto.cost_))
-print("Iterations: {}".format(kproto.n_iter_))
+print("Costs: {}".format(kmode.cost_))
+print("Iterations: {}".format(kmode.n_iter_))
 
 for s, c in zip(syms, clusters):
     print("Symbol: {}, cluster:{}".format(s, c))
