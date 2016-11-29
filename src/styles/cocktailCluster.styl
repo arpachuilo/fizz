@@ -1,6 +1,7 @@
 div[class^='row cluster-']
-  margin-bottom 1em
+  margin-bottom 0.2em
   padding 1em 1em 1em 1em
+  border-radius 5px
 
 .clusterItem
   cursor pointer
@@ -9,22 +10,16 @@ div[class^='row cluster-']
   transition background-color 0.4s ease-in-out
   transition color 0.4s ease-in-out
 
-.clusterItem:hover
+.clusterItem:hover, .clusterItem.highlighted
   background-color rgba(0,0,0,0.75)
   color whitesmoke
+  border-radius 5px
   transition background-color 0.2s ease-in-out
   transition color 0.2s ease-in-out
 
-
-.clusterItem.highlighted
-  background-color rgba(0,0,0,0.75)
-  color whitesmoke
-  transition background-color 0.4s ease-in-out
-  transition color 0.4s ease-in-out
-
-
 .clusterItem img
+  border-radius 100%
   display block
   margin auto
-  width 32px
-  height 32px
+  width 42px
+  height 42px

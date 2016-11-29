@@ -35,3 +35,5 @@ for s, c, j in zip(syms, clusters, jsonData):
 outfile = open(sys.argv[1].replace('csv', 'json'), 'w')
 outfile.write(json.dumps(jsonData, indent=4))
 outfile.close()
+
+print(kmode.cost_)

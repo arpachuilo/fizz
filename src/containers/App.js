@@ -20,7 +20,7 @@ class App extends React.Component {
               </li>
               <li>
                 <Link to='/home' activeClassName='active'>
-                  <div>Home</div>
+                  <div>Pinned</div>
                 </Link>
               </li>
               <li>

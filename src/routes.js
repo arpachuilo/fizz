@@ -10,7 +10,7 @@ const routes = (
   <ReduxRouter>
     <Router history={browserHistory}>
       <Route path='/' component={App}>
-        <IndexRedirect to='/home' />
+        <IndexRedirect to='/browse' />
         <Route path='/home' component={Home} />
         <Route path='/browse' component={Browse} />
       </Route>

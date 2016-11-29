@@ -1,6 +1,7 @@
 import React, { PropTypes } from 'react'
 
 import missing from '../images/missing.png'
+import clusterLabels from '../data/clusterLabels.json'
 
 export class ClusterBrowser extends React.Component {
   constructor (props) {
@@ -26,6 +27,11 @@ export class ClusterBrowser extends React.Component {
     this.clusters = new Map([...this.clusters.entries()].sort((a, b) => {
       return b[1].length - a[1].length
     }))
+
+    this.labels = new Map()
+    clusterLabels.forEach((d) => {
+      this.labels.set(d.cluster, d.label)
+    })
   }
 
   onClick (e) {
@@ -40,8 +46,10 @@ export class ClusterBrowser extends React.Component {
       <div className='row'>
         {Array.from(this.clusters).map((cluster, index) => {
           let clusterClass = 'row cluster-' + cluster[0]
+          let clusterLabel = this.labels.get(cluster[0])
           return (
             <div key={index} className={clusterClass}>
+              <label>{clusterLabel}</label>
               {cluster[1].map((d, i) => {
                 let itemClass = 'clusterItem'
                 if (this.props.suggestedCocktails.includes(d)) itemClass += ' highlighted'
