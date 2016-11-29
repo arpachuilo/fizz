@@ -21,7 +21,7 @@ export class CocktailCard extends React.Component {
     let { title, directions, picture, drinkware, served, cluster, ingredients } = this.props.data
 
     return (
-      <figure className={'clusterCard-' + cluster}>
+      <figure className={'cluster-' + cluster}>
         <h4 className='title'>{title}</h4>
         <img className='picture' src={(picture.length !== 0) ? picture : missing} />
         <p className='drinkware'>

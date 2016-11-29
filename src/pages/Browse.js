@@ -98,7 +98,6 @@ class Browse extends React.Component {
               handleToken={this.setSelectedCocktail}
               engine={searchEngine}
               value='title'
-              limit={10}
               displayValue={(d) => {
                 return d['title']
               }} />

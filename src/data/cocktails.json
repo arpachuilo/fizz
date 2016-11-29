@@ -19,7 +19,7 @@
             }
         ], 
         "title": "Alexander", 
-        "cluster": 5, 
+        "cluster": 4, 
         "link": "https://en.wikipedia.org/wiki/Alexander_(cocktail)", 
         "directions": "Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.", 
         "served": "Straight up; without ice", 
@@ -45,7 +45,7 @@
             }
         ], 
         "title": "Americano", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Americano_(cocktail)", 
         "directions": "Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.", 
         "served": "On the rocks; poured over ice", 
@@ -71,7 +71,7 @@
             }
         ], 
         "title": "Angel Face", 
-        "cluster": 1, 
+        "cluster": 5, 
         "link": "https://en.wikipedia.org/wiki/Angel_Face_(cocktail)", 
         "directions": "Shake all ingredients with ice and strain contents into a cocktail glass.", 
         "served": "Straight up; without ice", 
@@ -97,7 +97,7 @@
             }
         ], 
         "title": "Aviation", 
-        "cluster": 1, 
+        "cluster": 0, 
         "link": "https://en.wikipedia.org/wiki/Aviation_(cocktail)", 
         "directions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.", 
         "served": "Straight up; without ice", 
@@ -123,7 +123,7 @@
             }
         ], 
         "title": "Bacardi cocktail", 
-        "cluster": 3, 
+        "cluster": 8, 
         "link": "https://en.wikipedia.org/wiki/Bacardi_cocktail", 
         "directions": "Shake together with ice. Strain into glass and serve", 
         "served": "Straight up; without ice", 
@@ -154,7 +154,7 @@
             }
         ], 
         "title": "Between the Sheets", 
-        "cluster": 5, 
+        "cluster": 4, 
         "link": "https://en.wikipedia.org/wiki/Between_the_Sheets_(cocktail)", 
         "directions": "Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass.", 
         "served": "Straight up; without ice", 
@@ -185,7 +185,7 @@
             }
         ], 
         "title": "Casino", 
-        "cluster": 1, 
+        "cluster": 0, 
         "link": "https://en.wikipedia.org/wiki/Casino_(cocktail)", 
         "directions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.", 
         "served": "Straight up; without ice", 
@@ -216,7 +216,7 @@
             }
         ], 
         "title": "Clover Club Cocktail", 
-        "cluster": 1, 
+        "cluster": 0, 
         "link": "https://en.wikipedia.org/wiki/Clover_Club_Cocktail", 
         "directions": "Dry shake ingredients to emulsify, add ice, shake and served straight up.", 
         "served": "Straight up; without ice", 
@@ -242,7 +242,7 @@
             }
         ], 
         "title": "Daiquiri", 
-        "cluster": 3, 
+        "cluster": 8, 
         "link": "https://en.wikipedia.org/wiki/Daiquiri", 
         "directions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.", 
         "served": "Straight up; without ice", 
@@ -268,31 +268,10 @@
             }
         ], 
         "title": "Derby", 
-        "cluster": 1, 
+        "cluster": 2, 
         "link": "https://en.wikipedia.org/wiki/Derby_(cocktail)", 
         "directions": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.", 
         "served": "Straight up; without ice", 
-        "drinkware": "Cocktail glass"
-    }, 
-    {
-        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/15-09-26-RalfR-WLC-0084.jpg/220px-15-09-26-RalfR-WLC-0084.jpg", 
-        "ingredients": [
-            {
-                "amount": "6", 
-                "unit": "cl", 
-                "ingredient": "gin"
-            }, 
-            {
-                "amount": "1", 
-                "unit": "cl", 
-                "ingredient": "dry vermouth"
-            }
-        ], 
-        "title": "Martini", 
-        "cluster": 1, 
-        "link": "https://en.wikipedia.org/wiki/Martini_(cocktail)", 
-        "directions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.", 
-        "served": "straight (or on the rocks)", 
         "drinkware": "Cocktail glass"
     }, 
     {
@@ -320,7 +299,7 @@
             }
         ], 
         "title": "Gin Fizz", 
-        "cluster": 1, 
+        "cluster": 0, 
         "link": "https://en.wikipedia.org/wiki/Fizz_(cocktail)#Gin_Fizz", 
         "directions": "Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.", 
         "served": "On the rocks; poured over ice", 
@@ -351,7 +330,7 @@
             }
         ], 
         "title": "John Collins", 
-        "cluster": 1, 
+        "cluster": 0, 
         "link": "https://en.wikipedia.org/wiki/John_Collins_(cocktail)", 
         "directions": "Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.", 
         "served": "On the rocks; poured over ice", 
@@ -377,7 +356,7 @@
             }
         ], 
         "title": "Manhattan", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Manhattan_(cocktail)", 
         "directions": "Stirred over ice, strained into a chilled glass, garnished, and served up.", 
         "served": "Straight up; without ice", 
@@ -408,7 +387,7 @@
             }
         ], 
         "title": "Mary Pickford", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Mary_Pickford_(cocktail)", 
         "directions": "Shake and strain into a chilled large cocktail glass", 
         "served": "Straight up; without ice", 
@@ -439,7 +418,7 @@
             }
         ], 
         "title": "Monkey Gland", 
-        "cluster": 1, 
+        "cluster": 2, 
         "link": "https://en.wikipedia.org/wiki/Monkey_Gland", 
         "directions": "Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.", 
         "served": "Straight up; without ice", 
@@ -465,7 +444,7 @@
             }
         ], 
         "title": "Negroni", 
-        "cluster": 1, 
+        "cluster": 2, 
         "link": "https://en.wikipedia.org/wiki/Negroni", 
         "directions": "Stir into glass over ice, garnish and serve.", 
         "served": "On the rocks; poured over ice", 
@@ -496,7 +475,7 @@
             }
         ], 
         "title": "Old Fashioned", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Old_Fashioned", 
         "directions": "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Garnish with orange twist, and a cocktail cherry.", 
         "served": "On the rocks; poured over ice", 
@@ -522,7 +501,7 @@
             }
         ], 
         "title": "Paradise", 
-        "cluster": 1, 
+        "cluster": 5, 
         "link": "https://en.wikipedia.org/wiki/Paradise_(cocktail)", 
         "directions": "Shake together over ice. Strain into cocktail glass and serve chilled.", 
         "served": "Straight up; without ice", 
@@ -568,7 +547,7 @@
             }
         ], 
         "title": "Planter's Punch", 
-        "cluster": 1, 
+        "cluster": 7, 
         "link": "https://en.wikipedia.org/wiki/Planter%27s_Punch", 
         "directions": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, \"on top\". Garnish with cocktail cherry and pineapple.", 
         "served": "On the rocks; poured over ice", 
@@ -594,7 +573,7 @@
             }
         ], 
         "title": "Porto flip", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Porto_flip", 
         "directions": "Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve", 
         "served": "Straight up; without ice", 
@@ -650,7 +629,7 @@
             }
         ], 
         "title": "Ramos Fizz", 
-        "cluster": 1, 
+        "cluster": 7, 
         "link": "https://en.wikipedia.org/wiki/Fizz_(cocktail)#Ramos_Gin_Fizz", 
         "directions": "All ingredients except the soda are poured in a mixing glass, dry shaken (no ice) for two minutes, then ice is added and shaken hard for another minute. Strain into a highball glass without ice and topped with soda", 
         "served": "On the rocks; poured over ice", 
@@ -662,7 +641,7 @@
             {
                 "amount": "4.5", 
                 "unit": "cl", 
-                "ingredient": "Scotch Whisky"
+                "ingredient": "Scotch Whiskey"
             }, 
             {
                 "amount": "2.5", 
@@ -671,7 +650,7 @@
             }
         ], 
         "title": "Rusty Nail", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Rusty_Nail_(cocktail)", 
         "directions": "Pour all ingredients directly into old-fashioned glass filled with ice. Stir gently. Garnish with a lemon twist. Serve.", 
         "served": "On the rocks; poured over ice", 
@@ -702,7 +681,7 @@
             }
         ], 
         "title": "Sazerac", 
-        "cluster": 5, 
+        "cluster": 4, 
         "link": "https://en.wikipedia.org/wiki/Sazerac", 
         "directions": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.[1]", 
         "served": "Straight up; without ice", 
@@ -723,7 +702,7 @@
             }
         ], 
         "title": "Screwdriver", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/wiki/Screwdriver_(cocktail)", 
         "directions": "Mix in a highball glass with ice. Garnish and serve.", 
         "served": "On the rocks; poured over ice", 
@@ -749,7 +728,7 @@
             }
         ], 
         "title": "Sidecar", 
-        "cluster": 5, 
+        "cluster": 4, 
         "link": "https://en.wikipedia.org/wiki/Sidecar_(cocktail)", 
         "directions": "Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.", 
         "served": "Straight up (without ice)", 
@@ -770,7 +749,7 @@
             }
         ], 
         "title": "Stinger", 
-        "cluster": 5, 
+        "cluster": 4, 
         "link": "https://en.wikipedia.org/wiki/Stinger_(cocktail)", 
         "directions": "Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.", 
         "served": "Straight up; without ice", 
@@ -806,7 +785,7 @@
             }
         ], 
         "title": "Tuxedo", 
-        "cluster": 1, 
+        "cluster": 2, 
         "link": "https://en.wikipedia.org/wiki/Tuxedo_(cocktail)", 
         "directions": "Stir all ingredients with ice and strain into a cocktail glass. Garnish with a cherry and a twist of lemon zest.", 
         "served": "Straight up; without ice", 
@@ -837,7 +816,7 @@
             }
         ], 
         "title": "Whiskey sour", 
-        "cluster": 1, 
+        "cluster": 7, 
         "link": "https://en.wikipedia.org/wiki/Whiskey_sour", 
         "directions": "Shake with ice. Strain into chilled glass, garnish and serve.", 
         "served": "On the rocks; poured over ice", 
@@ -863,7 +842,7 @@
             }
         ], 
         "title": "Sour", 
-        "cluster": 1, 
+        "cluster": 0, 
         "link": "https://en.wikipedia.org/wiki/Sour_(cocktail)#White_Lady", 
         "directions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.", 
         "served": "Straight up; without ice", 
@@ -884,7 +863,7 @@
             }
         ], 
         "title": "Bellini", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Bellini_(cocktail)", 
         "directions": "Pour peach puree into chilled flute, add sparkling wine. Stir gently.", 
         "served": "Straight up; without ice", 
@@ -905,7 +884,7 @@
             }
         ], 
         "title": "Black Russian", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/wiki/Black_Russian", 
         "directions": "Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.", 
         "served": "On the rocks; poured over ice", 
@@ -951,7 +930,7 @@
             }
         ], 
         "title": "Bloody Mary", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/wiki/Bloody_Mary_(cocktail)", 
         "directions": "Add dashes of Worcestershire Sauce, Tabasco, salt and pepper into highball glass, then pour all ingredients into highball with ice cubes. Stir gently.", 
         "served": "On the rocks; poured over ice", 
@@ -977,7 +956,7 @@
             }
         ], 
         "title": "Caipirinha", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Caipirinha", 
         "directions": "Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with crushed ice and add the Cachaca.", 
         "served": "On the rocks; poured over ice", 
@@ -1008,7 +987,7 @@
             }
         ], 
         "title": "Champagne cocktail", 
-        "cluster": 5, 
+        "cluster": 4, 
         "link": "https://en.wikipedia.org/wiki/Champagne_Cocktail", 
         "directions": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.", 
         "served": "Straight up; without ice", 
@@ -1039,7 +1018,7 @@
             }
         ], 
         "title": "Cosmopolitan", 
-        "cluster": 4, 
+        "cluster": 6, 
         "link": "https://en.wikipedia.org/wiki/Cosmopolitan_(cocktail)", 
         "directions": "Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.", 
         "served": "Straight up; without ice", 
@@ -1065,7 +1044,7 @@
             }
         ], 
         "title": "Cuba Libre", 
-        "cluster": 2, 
+        "cluster": 6, 
         "link": "https://en.wikipedia.org/wiki/Cuba_Libre", 
         "directions": "Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.", 
         "served": "On the rocks; poured over ice", 
@@ -1096,7 +1075,7 @@
             }
         ], 
         "title": "French 75", 
-        "cluster": 1, 
+        "cluster": 0, 
         "link": "https://en.wikipedia.org/wiki/French_75_(cocktail)", 
         "directions": "Combine Cognac, syrup, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently.", 
         "served": "", 
@@ -1117,7 +1096,7 @@
             }
         ], 
         "title": "French Connection", 
-        "cluster": 5, 
+        "cluster": 4, 
         "link": "https://en.wikipedia.org/wiki/French_Connection_(cocktail)", 
         "directions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.", 
         "served": "On the rocks; poured over ice", 
@@ -1129,7 +1108,7 @@
             {
                 "amount": "3.5", 
                 "unit": "cl", 
-                "ingredient": "Scotch whisky"
+                "ingredient": "Scotch whiskey"
             }, 
             {
                 "amount": "3.5", 
@@ -1138,7 +1117,7 @@
             }
         ], 
         "title": "Godfather", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Godfather_(cocktail)", 
         "directions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.", 
         "served": "On the rocks; poured over ice", 
@@ -1169,7 +1148,7 @@
             }
         ], 
         "title": "Golden dream", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Golden_dream_(cocktail)", 
         "directions": "Shake with cracked ice. Strain into glass and serve.", 
         "served": "Straight up; without ice", 
@@ -1195,7 +1174,7 @@
             }
         ], 
         "title": "Grasshopper", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Grasshopper_(cocktail)", 
         "directions": "Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.", 
         "served": "Straight up; without ice", 
@@ -1221,7 +1200,7 @@
             }
         ], 
         "title": "Harvey Wallbanger", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/wiki/Harvey_Wallbanger", 
         "directions": "Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.", 
         "served": "On the rocks; poured over ice", 
@@ -1257,7 +1236,7 @@
             }
         ], 
         "title": "Hemingway Special", 
-        "cluster": 3, 
+        "cluster": 8, 
         "link": "https://en.wikipedia.org/w/index.php?title=Hemingway_Special&action=edit&redlink=1", 
         "directions": "Combine rum, juices, liqueur, and syrup in ice-filled shaker; shake. Strain over crushed ice into a cocktail glass; garnish with cherries.", 
         "served": "over crushed ice", 
@@ -1283,7 +1262,7 @@
             }
         ], 
         "title": "Horse's Neck", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Horse%27s_Neck", 
         "directions": "Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.", 
         "served": "On the rocks; poured over ice", 
@@ -1314,7 +1293,7 @@
             }
         ], 
         "title": "Irish coffee", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Irish_Coffee", 
         "directions": "Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.", 
         "served": "Hot", 
@@ -1335,7 +1314,7 @@
             }
         ], 
         "title": "Kir", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Kir_(cocktail)", 
         "directions": "Add the creme de cassis to the bottom of the glass, then top up with wine.", 
         "served": "", 
@@ -1386,7 +1365,7 @@
             }
         ], 
         "title": "Long Island Iced Tea", 
-        "cluster": 1, 
+        "cluster": 0, 
         "link": "https://en.wikipedia.org/wiki/Long_Island_Iced_Tea", 
         "directions": "Add all ingredients into highball glass filled with ice. Stir gently. Garnish with lemon spiral. Serve with straw. [1]", 
         "served": "On the rocks; poured over ice", 
@@ -1422,37 +1401,11 @@
             }
         ], 
         "title": "Mai Tai", 
-        "cluster": 3, 
+        "cluster": 8, 
         "link": "https://en.wikipedia.org/wiki/Mai_Tai", 
         "directions": "Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.", 
         "served": "On the rocks; poured over ice", 
         "drinkware": "Highball glass"
-    }, 
-    {
-        "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/3/37/MargaritaReal.jpg/220px-MargaritaReal.jpg", 
-        "ingredients": [
-            {
-                "amount": "3.5", 
-                "unit": "cL", 
-                "ingredient": "tequila"
-            }, 
-            {
-                "amount": "2", 
-                "unit": "cL", 
-                "ingredient": "Cointreau"
-            }, 
-            {
-                "amount": "1.5", 
-                "unit": "cL", 
-                "ingredient": "lime juice"
-            }
-        ], 
-        "title": "Margarita", 
-        "cluster": 4, 
-        "link": "https://en.wikipedia.org/wiki/Margarita", 
-        "directions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.", 
-        "served": "On the rocks; poured over ice", 
-        "drinkware": "Margarita glass"
     }, 
     {
         "picture": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pool-side_Mimosas_at_The_Standard_Hotel.jpg/220px-Pool-side_Mimosas_at_The_Standard_Hotel.jpg", 
@@ -1469,7 +1422,7 @@
             }
         ], 
         "title": "Mimosa", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Mimosa_(cocktail)", 
         "directions": "Ensure both ingredients are well chilled, then mix into the glass. Serve cold.", 
         "served": "Neat; undiluted and without ice", 
@@ -1500,7 +1453,7 @@
             }
         ], 
         "title": "Mint julep", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Mint_Julep", 
         "directions": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.", 
         "served": "On the rocks; poured over ice", 
@@ -1536,7 +1489,7 @@
             }
         ], 
         "title": "Mojito", 
-        "cluster": 3, 
+        "cluster": 8, 
         "link": "https://en.wikipedia.org/wiki/Mojito", 
         "directions": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.", 
         "served": "On the rocks; poured over ice", 
@@ -1562,7 +1515,7 @@
             }
         ], 
         "title": "Moscow mule", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/wiki/Moscow_Mule", 
         "directions": "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish with a lime slice and sprig of mint on the brim of the copper mug.", 
         "served": "On the rocks; poured over ice", 
@@ -1588,7 +1541,7 @@
             }
         ], 
         "title": "Pina colada", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Pi%C3%B1a_Colada", 
         "directions": "Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve.", 
         "served": "Blended", 
@@ -1614,7 +1567,7 @@
             }
         ], 
         "title": "Rose", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Rose_(cocktail)", 
         "directions": "Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.", 
         "served": "Straight up; without ice", 
@@ -1640,7 +1593,7 @@
             }
         ], 
         "title": "Sea Breeze", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/wiki/Sea_Breeze_(cocktail)", 
         "directions": "Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.", 
         "served": "On the rocks; poured over ice", 
@@ -1671,7 +1624,7 @@
             }
         ], 
         "title": "Sex on the Beach", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/wiki/Sex_on_the_Beach", 
         "directions": "Build all ingredients in a highball glass filled with ice. Garnish with orange slice.", 
         "served": "On the rocks; poured over ice", 
@@ -1722,7 +1675,7 @@
             }
         ], 
         "title": "Singapore Sling", 
-        "cluster": 4, 
+        "cluster": 2, 
         "link": "https://en.wikipedia.org/wiki/Singapore_Sling", 
         "directions": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry.", 
         "served": "Straight up; without ice", 
@@ -1748,7 +1701,7 @@
             }
         ], 
         "title": "Tequila Sunrise", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Tequila_Sunrise_(cocktail)", 
         "directions": "Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve.", 
         "served": "On the rocks; poured over ice", 
@@ -1774,7 +1727,7 @@
             }
         ], 
         "title": "B-52", 
-        "cluster": 5, 
+        "cluster": 4, 
         "link": "https://en.wikipedia.org/wiki/B-52_(cocktail)", 
         "directions": "Layer ingredients into a shot glass. Serve with a stirrer.", 
         "served": "Neat; undiluted and without ice", 
@@ -1805,7 +1758,7 @@
             }
         ], 
         "title": "Barracuda", 
-        "cluster": 2, 
+        "cluster": 6, 
         "link": "https://en.wikipedia.org/w/index.php?title=Barracuda_(cocktail)&action=edit&redlink=1", 
         "directions": "Pour all ingredients except the wine in a chilled glass. Top with the sparkling wine.", 
         "served": "in chilled glass", 
@@ -1836,7 +1789,7 @@
             }
         ], 
         "title": "Bramble", 
-        "cluster": 1, 
+        "cluster": 0, 
         "link": "https://en.wikipedia.org/wiki/Bramble_(cocktail)", 
         "directions": "Fill glass with crushed ice. Build gin, lemon juice and sugar syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.", 
         "served": "", 
@@ -1857,7 +1810,7 @@
             }
         ], 
         "title": "Dark 'N' Stormy", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Dark_%27N%27_Stormy", 
         "directions": "In a highball glass filled with ice add 6cl dark rum and top with ginger beer. Garnish with lime wedge.", 
         "served": "On the rocks; poured over ice", 
@@ -1878,7 +1831,7 @@
             }
         ], 
         "title": "Martini", 
-        "cluster": 1, 
+        "cluster": 2, 
         "link": "https://en.wikipedia.org/wiki/Martini_(cocktail)", 
         "directions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.", 
         "served": "straight (or on the rocks)", 
@@ -1909,7 +1862,7 @@
             }
         ], 
         "title": "Espresso Martini", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/wiki/Espresso_Martini", 
         "directions": "Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass", 
         "served": "Straight up; without ice", 
@@ -1935,7 +1888,7 @@
             }
         ], 
         "title": "French Martini", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/wiki/French_Martini", 
         "directions": "Pour all ingredients into mixing glass with ice cubes. Shake well and strain into a chilled cocktail glass.", 
         "served": "Straight up; without ice", 
@@ -1961,7 +1914,7 @@
             }
         ], 
         "title": "Kamikaze", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/wiki/Kamikaze_(cocktail)", 
         "directions": "Shake all ingredients together with ice. Strain into glass, garnish and serve.", 
         "served": "Straight up; without ice", 
@@ -1987,7 +1940,7 @@
             }
         ], 
         "title": "Lemon Drop", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/wiki/Lemon_Drop_Martini", 
         "directions": "Shake and strain into a chilled cocktail glass rimmed with sugar.", 
         "served": "Straight up; without ice", 
@@ -2018,7 +1971,7 @@
             }
         ], 
         "title": "Pisco sour", 
-        "cluster": 1, 
+        "cluster": 7, 
         "link": "https://en.wikipedia.org/wiki/Pisco_sour", 
         "directions": "Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.[1]", 
         "served": "Straight up; without ice", 
@@ -2049,7 +2002,7 @@
             }
         ], 
         "title": "Russian Spring Punch", 
-        "cluster": 0, 
+        "cluster": 3, 
         "link": "https://en.wikipedia.org/w/index.php?title=Russian_Spring_Punch&action=edit&redlink=1", 
         "directions": "Shake the ingredients and pour into highball glass. Top with Sparkling wine. Garnish with a lemon slice and a blackberry.", 
         "served": "", 
@@ -2075,7 +2028,7 @@
             }
         ], 
         "title": "Spritz", 
-        "cluster": 2, 
+        "cluster": 1, 
         "link": "https://en.wikipedia.org/wiki/Spritz_Veneziano", 
         "directions": "Build into glass over ice, garnish and serve.", 
         "served": "On the rocks; poured over ice", 
@@ -2101,7 +2054,7 @@
             }
         ], 
         "title": "Margarita", 
-        "cluster": 4, 
+        "cluster": 6, 
         "link": "https://en.wikipedia.org/wiki/Margarita", 
         "directions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.", 
         "served": "On the rocks; poured over ice", 
@@ -2152,7 +2105,7 @@
             }
         ], 
         "title": "Vampiro", 
-        "cluster": 4, 
+        "cluster": 6, 
         "link": "https://en.wikipedia.org/w/index.php?title=Vampiro_(cocktail)&action=edit&redlink=1", 
         "directions": "Shake all ingredients with ice and strain into ice-filled glass", 
         "served": "on ice", 
@@ -2178,7 +2131,7 @@
             }
         ], 
         "title": "Vesper", 
-        "cluster": 0, 
+        "cluster": 2, 
         "link": "https://en.wikipedia.org/wiki/Vesper_(cocktail)", 
         "directions": "Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.", 
         "served": "Straight up; without ice", 
@@ -2209,7 +2162,7 @@
             }
         ], 
         "title": "Yellow Bird", 
-        "cluster": 3, 
+        "cluster": 8, 
         "link": "https://en.wikipedia.org/wiki/Yellow_Bird_(cocktail)", 
         "directions": "Shake and strain into a chilled cocktail glass", 
         "served": "", 
