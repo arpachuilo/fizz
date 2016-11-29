@@ -19,7 +19,7 @@ class Home extends React.Component {
 
   render () {
     return (
-      <div className='row'>
+      <div className='container'>
         <CocktailGrid items={this.props.cocktails} onButtonClick={this.removeCocktail} />
         {
           this.props.cocktails.length < 1
