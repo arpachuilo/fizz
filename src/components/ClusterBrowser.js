@@ -32,6 +32,8 @@ export class ClusterBrowser extends React.Component {
     clusterLabels.forEach((d) => {
       this.labels.set(d.cluster, d.label)
     })
+
+    this.colNames = ['one', 'two', 'three', 'four', 'five', 'size', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve']
   }
 
   onClick (e) {
@@ -43,10 +45,16 @@ export class ClusterBrowser extends React.Component {
 
   render () {
     return (
-      <div className='row'>
+      <div className='row clusterBrowser'>
         {Array.from(this.clusters).map((cluster, index) => {
-          let clusterClass = 'row cluster-' + cluster[0]
+          let nCols = Math.round((cluster[1].length * 12 / this.props.cocktails.length)) - 1
+          if (index === 0) nCols += 1
+          let colName = this.colNames[nCols] + (nCols === 0 ? ' column' : ' columns')
+          let clusterClass = colName + ' cluster-' + cluster[0]
           let clusterLabel = this.labels.get(cluster[0])
+          let style = {
+            width: ((nCols === 0) ? '100%' : '50%')
+          }
           return (
             <div key={index} className={clusterClass}>
               <label>{clusterLabel}</label>
@@ -54,7 +62,7 @@ export class ClusterBrowser extends React.Component {
                 let itemClass = 'clusterItem'
                 if (this.props.suggestedCocktails.includes(d)) itemClass += ' highlighted'
                 return (
-                  <div key={i} className={itemClass} data-index={cluster[0] + ',' + i} onClick={this.onClick}>
+                  <div key={i} style={style} className={itemClass} data-index={cluster[0] + ',' + i} onClick={this.onClick}>
                     <img src={(d.picture.length !== 0) ? d.picture : missing} />
                     <span>{d.title}</span>
                   </div>
