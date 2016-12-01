@@ -71,7 +71,7 @@ export class ClusterBrowser extends React.Component {
       .force('link', d3.forceLink().id((d) => { return d.id }).distance(60))
       .force('charge', d3.forceManyBody().strength(-50).distanceMin(10).distanceMax(100))
       .force('center', d3.forceCenter(this.state.width / 2, this.state.height / 2))
-      .force('collide', d3.forceCollide().radius(20))
+      .force('collide', d3.forceCollide().radius(30))
 
     this.dragstarted = (d) => {
       if (!d3.event.active) this.simulation.alphaTarget(0.3).restart()
