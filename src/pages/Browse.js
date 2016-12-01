@@ -90,7 +90,9 @@ class Browse extends React.Component {
   setSelectedCocktail (d) {
     if (Object.keys(d).length > 0) {
       this.setState({
-        selectedCocktail: d
+        selectedCocktail: d.title === this.state.selectedCocktail.title
+          ? {}
+          : d
       })
     }
   }
