@@ -9,8 +9,6 @@ if (localData === null) {
   localData = JSON.parse(localData)
 }
 
-console.log(localData)
-
 const initialState = {
   items: localData
 }

@@ -1,5 +1,6 @@
 import React, { PropTypes } from 'react'
 import { connect } from 'react-redux'
+import Bloodhound from 'bloodhound-js'
 
 import { addItem, removeItem } from '../redux/actions'
 
@@ -7,8 +8,8 @@ import SearchBar from '../components/SearchBar'
 import ClusterBrowser from '../components/ClusterBrowser'
 import CocktailCard from '../components/CocktailCard'
 
-import Bloodhound from 'bloodhound-js'
 import cocktails from '../data/cocktails.json'
+import clusterLabels from '../data/clusterLabels.json'
 
 const searchEngine = new Bloodhound({
   local: [],
@@ -56,18 +57,34 @@ class Browse extends React.Component {
 
     this.state = {
       selectedCocktail: {},
-      suggestedCocktails: []
+      suggestedCocktails: [],
+      selectedClusters: []
     }
 
     this.setSelectedCocktail = this.setSelectedCocktail.bind(this)
     this.updateSuggestedCocktails = this.updateSuggestedCocktails.bind(this)
     this.onButtonClick = this.onButtonClick.bind(this)
+    this.onKeyClick = this.onKeyClick.bind(this)
   }
 
   onButtonClick (d) {
     checkForCocktail(this.props.cocktails, this.state.selectedCocktail)
       ? this.props.removeCocktail(d)
       : this.props.addCocktail(d)
+  }
+
+  onKeyClick (e) {
+    let cluster = +e.currentTarget.dataset.cluster
+    let selected = this.state.selectedClusters
+    if (selected.includes(cluster)) {
+      selected.splice(selected.indexOf(cluster), 1)
+    } else {
+      selected.push(cluster)
+    }
+
+    this.setState({
+      selectedClusters: selected
+    })
   }
 
   setSelectedCocktail (d) {
@@ -101,7 +118,24 @@ class Browse extends React.Component {
               displayValue={(d) => {
                 return d['title']
               }} />
+            <div className='row'>
+              {clusterLabels.map((d, i) => {
+                let className = 'key clusterBG-' + d.cluster
+                if (this.state.selectedClusters.includes(+d.cluster)) {
+                  className += ' selected'
+                }
+                return (
+                  <div key={i} data-cluster={d.cluster}
+                    className={className}
+                    onClick={this.onKeyClick}>
+                    <label>{d.label}</label>
+                  </div>
+                )
+              })}
+            </div>
             <ClusterBrowser cocktails={cocktails}
+              selectedCocktail={this.state.selectedCocktail}
+              selectedClusters={this.state.selectedClusters}
               suggestedCocktails={this.state.suggestedCocktails}
               onClick={this.setSelectedCocktail} />
           </div>

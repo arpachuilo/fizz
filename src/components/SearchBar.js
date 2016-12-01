@@ -163,7 +163,7 @@ TypeAhead.propTypes = {
   engine: PropTypes.any.isRequired,
   value: PropTypes.string.isRequired,
   displayValue: PropTypes.func,
-  limit: PropTypes.number,
+  limit: PropTypes.any,
   handleSuggestions: PropTypes.func,
   handleToken: PropTypes.func
 }
