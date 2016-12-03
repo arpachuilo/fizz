@@ -184,6 +184,8 @@ export class ClusterBrowser extends React.Component {
     this.node = d3.select(this.refs.nodes).selectAll('circle')
     this.link = d3.select(this.refs.links).selectAll('.link')
     this.updateGraph()
+    d3.select(this.refs.nodes).selectAll('circle').append('title')
+      .text((d) => d.id)
   }
 
   componentWillUnmount () {
@@ -231,8 +233,6 @@ export class ClusterBrowser extends React.Component {
     this.simulation.force('link')
       .links(this.graph.links)
     this.simulation.restart()
-    // this.node.append('title')
-      // .text((d) => d.id)
   }
 
   updateGraphClasses (props) {
